@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T00:16:48+08:00",
+  "generatedAt": "2026-06-18T03:08:14+08:00",
   "tradingDate": "2026-06-17",
   "stocks": [
     {
@@ -17,7 +17,7 @@
       "dealerBuyPct": 5.31,
       "volSpike": 0.72,
       "trendOK": true,
-      "volSpike5": 0.77,
+      "volSpike5": 0.81,
       "high20Break": false,
       "foreignNet5": 1411,
       "retailDropWoW": 0.0
@@ -37,7 +37,7 @@
       "dealerBuyPct": -2.19,
       "volSpike": 0.42,
       "trendOK": false,
-      "volSpike5": 0.59,
+      "volSpike5": 0.71,
       "high20Break": false,
       "foreignNet5": 4416,
       "retailDropWoW": -0.02
@@ -57,7 +57,7 @@
       "dealerBuyPct": 0.33,
       "volSpike": 0.64,
       "trendOK": true,
-      "volSpike5": 0.69,
+      "volSpike5": 0.77,
       "high20Break": false,
       "foreignNet5": -217,
       "retailDropWoW": -0.08
@@ -77,7 +77,7 @@
       "dealerBuyPct": 6.85,
       "volSpike": 0.94,
       "trendOK": false,
-      "volSpike5": 0.93,
+      "volSpike5": 1.17,
       "high20Break": false,
       "foreignNet5": -1454,
       "retailDropWoW": 0.12
@@ -97,7 +97,7 @@
       "dealerBuyPct": -0.54,
       "volSpike": 0.38,
       "trendOK": true,
-      "volSpike5": 0.68,
+      "volSpike5": 0.9,
       "high20Break": false,
       "foreignNet5": -19595,
       "retailDropWoW": -0.37
@@ -117,7 +117,7 @@
       "dealerBuyPct": null,
       "volSpike": 0.56,
       "trendOK": true,
-      "volSpike5": 0.71,
+      "volSpike5": 0.7,
       "high20Break": false,
       "foreignNet5": 4488,
       "retailDropWoW": -0.06
@@ -137,7 +137,7 @@
       "dealerBuyPct": 1.94,
       "volSpike": 0.55,
       "trendOK": true,
-      "volSpike5": 0.62,
+      "volSpike5": 0.58,
       "high20Break": true,
       "foreignNet5": 77290,
       "retailDropWoW": -0.14
@@ -157,7 +157,7 @@
       "dealerBuyPct": 4.14,
       "volSpike": 1.16,
       "trendOK": true,
-      "volSpike5": 1.32,
+      "volSpike5": 1.64,
       "high20Break": true,
       "foreignNet5": 61063,
       "retailDropWoW": -0.95
@@ -177,7 +177,7 @@
       "dealerBuyPct": 7.01,
       "volSpike": 0.6,
       "trendOK": false,
-      "volSpike5": 0.64,
+      "volSpike5": 0.61,
       "high20Break": false,
       "foreignNet5": 18101,
       "retailDropWoW": -0.21
@@ -197,7 +197,7 @@
       "dealerBuyPct": 19.44,
       "volSpike": 0.6,
       "trendOK": true,
-      "volSpike5": 0.86,
+      "volSpike5": 0.96,
       "high20Break": true,
       "foreignNet5": -18930,
       "retailDropWoW": -0.15
@@ -217,7 +217,7 @@
       "dealerBuyPct": 13.24,
       "volSpike": 0.98,
       "trendOK": true,
-      "volSpike5": 1.3,
+      "volSpike5": 1.37,
       "high20Break": true,
       "foreignNet5": 17092,
       "retailDropWoW": -0.03
@@ -237,7 +237,7 @@
       "dealerBuyPct": -4.28,
       "volSpike": 0.72,
       "trendOK": false,
-      "volSpike5": 0.92,
+      "volSpike5": 0.99,
       "high20Break": false,
       "foreignNet5": 3114,
       "retailDropWoW": -0.04
@@ -257,7 +257,7 @@
       "dealerBuyPct": 2.11,
       "volSpike": 0.51,
       "trendOK": true,
-      "volSpike5": 0.67,
+      "volSpike5": 0.68,
       "high20Break": false,
       "foreignNet5": 4901,
       "retailDropWoW": 0.13
@@ -297,7 +297,7 @@
       "dealerBuyPct": 6.42,
       "volSpike": 2.11,
       "trendOK": false,
-      "volSpike5": 2.61,
+      "volSpike5": 2.81,
       "high20Break": false,
       "foreignNet5": -5663,
       "retailDropWoW": 0.25
@@ -317,7 +317,7 @@
       "dealerBuyPct": -36.8,
       "volSpike": 1.02,
       "trendOK": true,
-      "volSpike5": 1.18,
+      "volSpike5": 1.2,
       "high20Break": true,
       "foreignNet5": 59482,
       "retailDropWoW": -0.36
@@ -337,7 +337,7 @@
       "dealerBuyPct": 17.3,
       "volSpike": 0.63,
       "trendOK": true,
-      "volSpike5": 0.8,
+      "volSpike5": 0.75,
       "high20Break": false,
       "foreignNet5": 10518,
       "retailDropWoW": -0.35
@@ -357,7 +357,7 @@
       "dealerBuyPct": 0.76,
       "volSpike": 0.79,
       "trendOK": true,
-      "volSpike5": 1.05,
+      "volSpike5": 1.09,
       "high20Break": true,
       "foreignNet5": -16182,
       "retailDropWoW": -0.04
@@ -377,7 +377,7 @@
       "dealerBuyPct": 0.57,
       "volSpike": 0.79,
       "trendOK": true,
-      "volSpike5": 1.08,
+      "volSpike5": 1.03,
       "high20Break": true,
       "foreignNet5": 15372,
       "retailDropWoW": 0.04
@@ -397,7 +397,7 @@
       "dealerBuyPct": 17.74,
       "volSpike": 0.93,
       "trendOK": true,
-      "volSpike5": 1.3,
+      "volSpike5": 1.35,
       "high20Break": true,
       "foreignNet5": 84736,
       "retailDropWoW": -0.78
@@ -417,7 +417,7 @@
       "dealerBuyPct": 3.92,
       "volSpike": 0.55,
       "trendOK": true,
-      "volSpike5": 1.16,
+      "volSpike5": 1.17,
       "high20Break": true,
       "foreignNet5": 32370,
       "retailDropWoW": -0.27
@@ -437,7 +437,7 @@
       "dealerBuyPct": 14.57,
       "volSpike": 1.02,
       "trendOK": true,
-      "volSpike5": 1.05,
+      "volSpike5": 1.16,
       "high20Break": true,
       "foreignNet5": 52223,
       "retailDropWoW": -0.34
@@ -457,7 +457,7 @@
       "dealerBuyPct": null,
       "volSpike": 0.95,
       "trendOK": true,
-      "volSpike5": 1.06,
+      "volSpike5": 1.15,
       "high20Break": true,
       "foreignNet5": -54332,
       "retailDropWoW": -0.06
@@ -477,7 +477,7 @@
       "dealerBuyPct": -0.26,
       "volSpike": 1.34,
       "trendOK": true,
-      "volSpike5": 1.25,
+      "volSpike5": 1.26,
       "high20Break": true,
       "foreignNet5": 92686,
       "retailDropWoW": -0.65
@@ -497,7 +497,7 @@
       "dealerBuyPct": 7.65,
       "volSpike": 0.82,
       "trendOK": false,
-      "volSpike5": 0.55,
+      "volSpike5": 0.52,
       "high20Break": false,
       "foreignNet5": -1372,
       "retailDropWoW": 0.05
@@ -517,7 +517,7 @@
       "dealerBuyPct": 4.02,
       "volSpike": 0.52,
       "trendOK": true,
-      "volSpike5": 0.69,
+      "volSpike5": 0.76,
       "high20Break": false,
       "foreignNet5": 23,
       "retailDropWoW": 0.3
@@ -537,7 +537,7 @@
       "dealerBuyPct": 3.35,
       "volSpike": 2.35,
       "trendOK": true,
-      "volSpike5": 1.35,
+      "volSpike5": 1.53,
       "high20Break": true,
       "foreignNet5": -857,
       "retailDropWoW": -0.36
@@ -557,7 +557,7 @@
       "dealerBuyPct": -1.08,
       "volSpike": 0.96,
       "trendOK": true,
-      "volSpike5": 1.14,
+      "volSpike5": 1.25,
       "high20Break": true,
       "foreignNet5": -1425,
       "retailDropWoW": -0.52
@@ -577,7 +577,7 @@
       "dealerBuyPct": -1.09,
       "volSpike": 0.66,
       "trendOK": false,
-      "volSpike5": 0.56,
+      "volSpike5": 0.68,
       "high20Break": false,
       "foreignNet5": -6430,
       "retailDropWoW": -0.4
@@ -597,7 +597,7 @@
       "dealerBuyPct": 2.46,
       "volSpike": 1.26,
       "trendOK": true,
-      "volSpike5": 1.96,
+      "volSpike5": 1.86,
       "high20Break": false,
       "foreignNet5": 5963,
       "retailDropWoW": -0.3
@@ -617,7 +617,7 @@
       "dealerBuyPct": 2.64,
       "volSpike": 1.24,
       "trendOK": true,
-      "volSpike5": 1.81,
+      "volSpike5": 1.83,
       "high20Break": true,
       "foreignNet5": 2431,
       "retailDropWoW": -0.61
@@ -637,7 +637,7 @@
       "dealerBuyPct": 14.7,
       "volSpike": 1.13,
       "trendOK": true,
-      "volSpike5": 0.65,
+      "volSpike5": 0.62,
       "high20Break": true,
       "foreignNet5": -12939,
       "retailDropWoW": -0.28
@@ -657,7 +657,7 @@
       "dealerBuyPct": 6.59,
       "volSpike": 0.36,
       "trendOK": false,
-      "volSpike5": 0.79,
+      "volSpike5": 1.06,
       "high20Break": false,
       "foreignNet5": -3269,
       "retailDropWoW": 1.05
@@ -677,7 +677,7 @@
       "dealerBuyPct": 0.56,
       "volSpike": 0.96,
       "trendOK": true,
-      "volSpike5": 1.27,
+      "volSpike5": 1.35,
       "high20Break": false,
       "foreignNet5": 34940,
       "retailDropWoW": -0.59
@@ -697,7 +697,7 @@
       "dealerBuyPct": 11.61,
       "volSpike": 0.53,
       "trendOK": true,
-      "volSpike5": 0.51,
+      "volSpike5": 0.5,
       "high20Break": false,
       "foreignNet5": 24832,
       "retailDropWoW": -0.34
@@ -717,7 +717,7 @@
       "dealerBuyPct": 0.43,
       "volSpike": 3.96,
       "trendOK": false,
-      "volSpike5": 3.76,
+      "volSpike5": 3.67,
       "high20Break": false,
       "foreignNet5": -32594,
       "retailDropWoW": 0.61
@@ -737,7 +737,7 @@
       "dealerBuyPct": -7.84,
       "volSpike": 0.78,
       "trendOK": false,
-      "volSpike5": 0.79,
+      "volSpike5": 0.82,
       "high20Break": false,
       "foreignNet5": -7293,
       "retailDropWoW": -0.0
@@ -757,7 +757,7 @@
       "dealerBuyPct": -3.13,
       "volSpike": 0.3,
       "trendOK": false,
-      "volSpike5": 0.89,
+      "volSpike5": 0.78,
       "high20Break": false,
       "foreignNet5": -3612,
       "retailDropWoW": 0.04
@@ -797,7 +797,7 @@
       "dealerBuyPct": null,
       "volSpike": 0.62,
       "trendOK": true,
-      "volSpike5": 0.68,
+      "volSpike5": 1.0,
       "high20Break": false,
       "foreignNet5": -59406,
       "retailDropWoW": -0.3
@@ -817,7 +817,7 @@
       "dealerBuyPct": 0.61,
       "volSpike": 0.59,
       "trendOK": false,
-      "volSpike5": 0.91,
+      "volSpike5": 0.93,
       "high20Break": false,
       "foreignNet5": -9936,
       "retailDropWoW": 0.36
@@ -837,7 +837,7 @@
       "dealerBuyPct": -4.04,
       "volSpike": 1.15,
       "trendOK": false,
-      "volSpike5": 1.49,
+      "volSpike5": 1.57,
       "high20Break": true,
       "foreignNet5": 155,
       "retailDropWoW": -0.02
@@ -857,7 +857,7 @@
       "dealerBuyPct": 69.92,
       "volSpike": 0.55,
       "trendOK": false,
-      "volSpike5": 0.59,
+      "volSpike5": 0.56,
       "high20Break": false,
       "foreignNet5": -513,
       "retailDropWoW": 0.14
@@ -877,7 +877,7 @@
       "dealerBuyPct": 47.37,
       "volSpike": 0.67,
       "trendOK": false,
-      "volSpike5": 0.61,
+      "volSpike5": 0.77,
       "high20Break": false,
       "foreignNet5": -45,
       "retailDropWoW": -0.01
@@ -897,7 +897,7 @@
       "dealerBuyPct": 10.19,
       "volSpike": 0.56,
       "trendOK": false,
-      "volSpike5": 0.49,
+      "volSpike5": 0.83,
       "high20Break": false,
       "foreignNet5": 94,
       "retailDropWoW": -0.03
@@ -917,7 +917,7 @@
       "dealerBuyPct": 81.55,
       "volSpike": 1.07,
       "trendOK": false,
-      "volSpike5": 1.69,
+      "volSpike5": 2.2,
       "high20Break": false,
       "foreignNet5": 147,
       "retailDropWoW": -0.05
@@ -937,7 +937,7 @@
       "dealerBuyPct": null,
       "volSpike": 0.53,
       "trendOK": false,
-      "volSpike5": 0.8,
+      "volSpike5": 0.84,
       "high20Break": false,
       "foreignNet5": -155,
       "retailDropWoW": 0.02
@@ -957,7 +957,7 @@
       "dealerBuyPct": null,
       "volSpike": 0.95,
       "trendOK": true,
-      "volSpike5": 0.8,
+      "volSpike5": 0.75,
       "high20Break": false,
       "foreignNet5": 46,
       "retailDropWoW": -0.02
@@ -977,7 +977,7 @@
       "dealerBuyPct": 18.64,
       "volSpike": 0.45,
       "trendOK": true,
-      "volSpike5": 0.42,
+      "volSpike5": 0.51,
       "high20Break": false,
       "foreignNet5": -8851,
       "retailDropWoW": -0.33
@@ -997,7 +997,7 @@
       "dealerBuyPct": null,
       "volSpike": 0.15,
       "trendOK": false,
-      "volSpike5": 0.33,
+      "volSpike5": 0.3,
       "high20Break": false,
       "foreignNet5": -2,
       "retailDropWoW": 0.0
@@ -1017,7 +1017,7 @@
       "dealerBuyPct": -472.67,
       "volSpike": 0.62,
       "trendOK": false,
-      "volSpike5": 0.8,
+      "volSpike5": 0.74,
       "high20Break": false,
       "foreignNet5": 272,
       "retailDropWoW": 0.57
@@ -1037,7 +1037,7 @@
       "dealerBuyPct": null,
       "volSpike": 0.58,
       "trendOK": false,
-      "volSpike5": 0.86,
+      "volSpike5": 0.78,
       "high20Break": false,
       "foreignNet5": 26,
       "retailDropWoW": 0.03
@@ -1057,7 +1057,7 @@
       "dealerBuyPct": 1.44,
       "volSpike": 0.56,
       "trendOK": false,
-      "volSpike5": 0.36,
+      "volSpike5": 0.42,
       "high20Break": false,
       "foreignNet5": -3026,
       "retailDropWoW": 0.49
@@ -1077,7 +1077,7 @@
       "dealerBuyPct": 153.88,
       "volSpike": 0.63,
       "trendOK": false,
-      "volSpike5": 1.02,
+      "volSpike5": 1.0,
       "high20Break": false,
       "foreignNet5": 183,
       "retailDropWoW": -0.07
@@ -1097,7 +1097,7 @@
       "dealerBuyPct": 50.0,
       "volSpike": 1.05,
       "trendOK": false,
-      "volSpike5": 1.38,
+      "volSpike5": 1.7,
       "high20Break": false,
       "foreignNet5": -12,
       "retailDropWoW": -0.02
@@ -1117,7 +1117,7 @@
       "dealerBuyPct": -93.79,
       "volSpike": 6.61,
       "trendOK": false,
-      "volSpike5": 3.91,
+      "volSpike5": 3.85,
       "high20Break": true,
       "foreignNet5": -435,
       "retailDropWoW": 0.2
@@ -1137,7 +1137,7 @@
       "dealerBuyPct": null,
       "volSpike": 0.4,
       "trendOK": false,
-      "volSpike5": 0.4,
+      "volSpike5": 0.52,
       "high20Break": false,
       "foreignNet5": 764,
       "retailDropWoW": -0.08
@@ -1157,7 +1157,7 @@
       "dealerBuyPct": 18.77,
       "volSpike": 0.33,
       "trendOK": false,
-      "volSpike5": 0.69,
+      "volSpike5": 0.75,
       "high20Break": false,
       "foreignNet5": 1924,
       "retailDropWoW": 0.06
@@ -1177,7 +1177,7 @@
       "dealerBuyPct": 5.76,
       "volSpike": 0.68,
       "trendOK": false,
-      "volSpike5": 0.8,
+      "volSpike5": 0.97,
       "high20Break": false,
       "foreignNet5": -155,
       "retailDropWoW": 0.02
@@ -1197,7 +1197,7 @@
       "dealerBuyPct": 50.14,
       "volSpike": 1.3,
       "trendOK": false,
-      "volSpike5": 0.93,
+      "volSpike5": 1.17,
       "high20Break": false,
       "foreignNet5": -134,
       "retailDropWoW": 0.08
@@ -1217,7 +1217,7 @@
       "dealerBuyPct": -13646.36,
       "volSpike": 0.4,
       "trendOK": false,
-      "volSpike5": 1.54,
+      "volSpike5": 1.39,
       "high20Break": false,
       "foreignNet5": -7,
       "retailDropWoW": 0.01
@@ -1237,7 +1237,7 @@
       "dealerBuyPct": 36.67,
       "volSpike": 0.72,
       "trendOK": false,
-      "volSpike5": 0.77,
+      "volSpike5": 1.02,
       "high20Break": false,
       "foreignNet5": 189,
       "retailDropWoW": -0.05
@@ -1257,7 +1257,7 @@
       "dealerBuyPct": null,
       "volSpike": 0.34,
       "trendOK": false,
-      "volSpike5": 0.63,
+      "volSpike5": 0.66,
       "high20Break": false,
       "foreignNet5": 16,
       "retailDropWoW": -0.01
@@ -1277,7 +1277,7 @@
       "dealerBuyPct": -1.39,
       "volSpike": 1.3,
       "trendOK": false,
-      "volSpike5": 1.05,
+      "volSpike5": 0.93,
       "high20Break": true,
       "foreignNet5": 26,
       "retailDropWoW": -0.03
@@ -1297,7 +1297,7 @@
       "dealerBuyPct": null,
       "volSpike": 0.25,
       "trendOK": false,
-      "volSpike5": 0.48,
+      "volSpike5": 0.59,
       "high20Break": false,
       "foreignNet5": 31,
       "retailDropWoW": -0.03
@@ -1337,7 +1337,7 @@
       "dealerBuyPct": 36.74,
       "volSpike": 0.71,
       "trendOK": false,
-      "volSpike5": 1.24,
+      "volSpike5": 1.3,
       "high20Break": false,
       "foreignNet5": 2656,
       "retailDropWoW": -0.15
@@ -1377,7 +1377,7 @@
       "dealerBuyPct": 31.59,
       "volSpike": 1.01,
       "trendOK": true,
-      "volSpike5": 0.77,
+      "volSpike5": 0.78,
       "high20Break": false,
       "foreignNet5": 1516,
       "retailDropWoW": -0.21
@@ -1397,7 +1397,7 @@
       "dealerBuyPct": 4.21,
       "volSpike": 0.76,
       "trendOK": false,
-      "volSpike5": 1.15,
+      "volSpike5": 1.16,
       "high20Break": false,
       "foreignNet5": 1531,
       "retailDropWoW": -0.21
@@ -1437,7 +1437,7 @@
       "dealerBuyPct": 4.94,
       "volSpike": 1.41,
       "trendOK": false,
-      "volSpike5": 2.46,
+      "volSpike5": 2.6,
       "high20Break": false,
       "foreignNet5": 54,
       "retailDropWoW": -0.03
@@ -1477,7 +1477,7 @@
       "dealerBuyPct": null,
       "volSpike": 0.67,
       "trendOK": false,
-      "volSpike5": 0.93,
+      "volSpike5": 0.99,
       "high20Break": false,
       "foreignNet5": 4640,
       "retailDropWoW": -0.19
@@ -1497,7 +1497,7 @@
       "dealerBuyPct": 12.28,
       "volSpike": 0.57,
       "trendOK": true,
-      "volSpike5": 1.08,
+      "volSpike5": 1.11,
       "high20Break": false,
       "foreignNet5": 7949,
       "retailDropWoW": -0.02
@@ -1517,7 +1517,7 @@
       "dealerBuyPct": null,
       "volSpike": 1.18,
       "trendOK": false,
-      "volSpike5": 2.3,
+      "volSpike5": 1.99,
       "high20Break": false,
       "foreignNet5": 18,
       "retailDropWoW": -0.03
@@ -1537,7 +1537,7 @@
       "dealerBuyPct": null,
       "volSpike": 0.43,
       "trendOK": false,
-      "volSpike5": 0.21,
+      "volSpike5": 0.27,
       "high20Break": false,
       "foreignNet5": -1498,
       "retailDropWoW": 0.22
@@ -1557,7 +1557,7 @@
       "dealerBuyPct": 10.22,
       "volSpike": 0.51,
       "trendOK": true,
-      "volSpike5": 0.56,
+      "volSpike5": 0.72,
       "high20Break": false,
       "foreignNet5": -2424,
       "retailDropWoW": -0.04
@@ -1577,7 +1577,7 @@
       "dealerBuyPct": null,
       "volSpike": 1.06,
       "trendOK": false,
-      "volSpike5": 0.82,
+      "volSpike5": 1.0,
       "high20Break": true,
       "foreignNet5": 101,
       "retailDropWoW": -0.05
@@ -1597,7 +1597,7 @@
       "dealerBuyPct": null,
       "volSpike": 0.58,
       "trendOK": false,
-      "volSpike5": 0.82,
+      "volSpike5": 1.12,
       "high20Break": false,
       "foreignNet5": -5,
       "retailDropWoW": -0.01
@@ -1617,7 +1617,7 @@
       "dealerBuyPct": 193.55,
       "volSpike": 1.76,
       "trendOK": false,
-      "volSpike5": 3.85,
+      "volSpike5": 3.69,
       "high20Break": false,
       "foreignNet5": 61,
       "retailDropWoW": -0.09
@@ -1637,7 +1637,7 @@
       "dealerBuyPct": 0.0,
       "volSpike": 0.33,
       "trendOK": false,
-      "volSpike5": 0.53,
+      "volSpike5": 0.58,
       "high20Break": false,
       "foreignNet5": 125,
       "retailDropWoW": -0.1
@@ -1657,7 +1657,7 @@
       "dealerBuyPct": null,
       "volSpike": 0.54,
       "trendOK": false,
-      "volSpike5": 0.84,
+      "volSpike5": 0.77,
       "high20Break": false,
       "foreignNet5": 133,
       "retailDropWoW": 0.0
@@ -1677,7 +1677,7 @@
       "dealerBuyPct": null,
       "volSpike": 0.26,
       "trendOK": true,
-      "volSpike5": 0.33,
+      "volSpike5": 0.57,
       "high20Break": false,
       "foreignNet5": 121,
       "retailDropWoW": -0.13
@@ -1697,7 +1697,7 @@
       "dealerBuyPct": null,
       "volSpike": 1.82,
       "trendOK": true,
-      "volSpike5": 3.11,
+      "volSpike5": 3.02,
       "high20Break": false,
       "foreignNet5": 226,
       "retailDropWoW": -0.34
@@ -1717,7 +1717,7 @@
       "dealerBuyPct": 8.62,
       "volSpike": 0.34,
       "trendOK": false,
-      "volSpike5": 0.65,
+      "volSpike5": 0.61,
       "high20Break": false,
       "foreignNet5": 100,
       "retailDropWoW": -0.07
@@ -1737,7 +1737,7 @@
       "dealerBuyPct": null,
       "volSpike": 0.35,
       "trendOK": false,
-      "volSpike5": 0.29,
+      "volSpike5": 0.3,
       "high20Break": false,
       "foreignNet5": 9,
       "retailDropWoW": -0.01
@@ -1757,7 +1757,7 @@
       "dealerBuyPct": null,
       "volSpike": 0.68,
       "trendOK": true,
-      "volSpike5": 0.46,
+      "volSpike5": 0.62,
       "high20Break": false,
       "foreignNet5": 428,
       "retailDropWoW": -0.54
@@ -1777,7 +1777,7 @@
       "dealerBuyPct": 0.6,
       "volSpike": 0.41,
       "trendOK": true,
-      "volSpike5": 0.88,
+      "volSpike5": 0.81,
       "high20Break": true,
       "foreignNet5": -18308,
       "retailDropWoW": -0.41
@@ -1797,7 +1797,7 @@
       "dealerBuyPct": 47.66,
       "volSpike": 0.82,
       "trendOK": true,
-      "volSpike5": 1.47,
+      "volSpike5": 1.43,
       "high20Break": false,
       "foreignNet5": -3574,
       "retailDropWoW": 0.23
@@ -1817,7 +1817,7 @@
       "dealerBuyPct": 239.52,
       "volSpike": 1.13,
       "trendOK": false,
-      "volSpike5": 0.83,
+      "volSpike5": 0.72,
       "high20Break": false,
       "foreignNet5": -4,
       "retailDropWoW": 0.02
@@ -1837,7 +1837,7 @@
       "dealerBuyPct": 0.0,
       "volSpike": 2.56,
       "trendOK": false,
-      "volSpike5": 5.54,
+      "volSpike5": 8.82,
       "high20Break": false,
       "foreignNet5": 14,
       "retailDropWoW": -0.01
@@ -1857,7 +1857,7 @@
       "dealerBuyPct": -0.12,
       "volSpike": 0.56,
       "trendOK": false,
-      "volSpike5": 0.93,
+      "volSpike5": 0.76,
       "high20Break": false,
       "foreignNet5": -20,
       "retailDropWoW": 0.01
@@ -1877,7 +1877,7 @@
       "dealerBuyPct": null,
       "volSpike": 0.55,
       "trendOK": false,
-      "volSpike5": 0.55,
+      "volSpike5": 0.59,
       "high20Break": false,
       "foreignNet5": 94,
       "retailDropWoW": -0.06
@@ -1890,17 +1890,17 @@
       "changePct": 0.0,
       "k": 84.15,
       "d": 81.72,
-      "dealerNet": 7000,
+      "dealerNet": 39000,
       "date": "2026-06-17",
       "maUpDays": 6,
       "drawdown30": 3.72,
-      "dealerBuyPct": 93.47,
+      "dealerBuyPct": 98.25,
       "volSpike": 0.99,
       "trendOK": false,
-      "volSpike5": 0.98,
+      "volSpike5": 1.18,
       "high20Break": false,
       "foreignNet5": 109,
-      "retailDropWoW": -0.07
+      "retailDropWoW": -0.08
     },
     {
       "id": "1418",
@@ -1917,7 +1917,7 @@
       "dealerBuyPct": -130.9,
       "volSpike": 0.28,
       "trendOK": false,
-      "volSpike5": 0.29,
+      "volSpike5": 0.33,
       "high20Break": false,
       "foreignNet5": -6,
       "retailDropWoW": -0.0
@@ -1937,7 +1937,7 @@
       "dealerBuyPct": 4.12,
       "volSpike": 0.65,
       "trendOK": true,
-      "volSpike5": 0.79,
+      "volSpike5": 1.05,
       "high20Break": false,
       "foreignNet5": -16,
       "retailDropWoW": 0.0
