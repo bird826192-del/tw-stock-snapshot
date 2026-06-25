@@ -25,7 +25,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 10369
     },
     {
       "id": "2317",
@@ -50,7 +51,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "2454",
@@ -75,7 +77,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 6777
     },
     {
       "id": "2308",
@@ -100,7 +103,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "2382",
@@ -125,7 +129,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 34500
     },
     {
       "id": "2412",
@@ -150,7 +155,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "2891",
@@ -175,7 +181,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 401810
     },
     {
       "id": "1303",
@@ -200,7 +207,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1301",
@@ -225,7 +233,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "2881",
@@ -250,7 +259,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 48472
     },
     {
       "id": "2882",
@@ -275,7 +285,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 13845
     },
     {
       "id": "6505",
@@ -300,7 +311,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 64336
     },
     {
       "id": "3711",
@@ -325,7 +337,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "2002",
@@ -350,7 +363,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "2603",
@@ -375,7 +389,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "2884",
@@ -400,7 +415,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1216",
@@ -425,7 +441,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 8373
     },
     {
       "id": "2886",
@@ -450,7 +467,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 408648
     },
     {
       "id": "2885",
@@ -475,7 +493,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "2892",
@@ -500,7 +519,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 40368
     },
     {
       "id": "2880",
@@ -525,7 +545,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 433672
     },
     {
       "id": "5880",
@@ -550,7 +571,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 80475
     },
     {
       "id": "2883",
@@ -575,7 +597,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "2890",
@@ -600,7 +623,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 412081
     },
     {
       "id": "2207",
@@ -625,7 +649,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 51
     },
     {
       "id": "2357",
@@ -650,7 +675,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "3008",
@@ -675,7 +701,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "2379",
@@ -700,7 +727,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "4938",
@@ -725,7 +753,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "2409",
@@ -750,7 +779,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "3034",
@@ -775,7 +805,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "2327",
@@ -800,7 +831,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "2474",
@@ -825,7 +857,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 6461
     },
     {
       "id": "1326",
@@ -850,7 +883,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "2303",
@@ -875,7 +909,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 135123
     },
     {
       "id": "2105",
@@ -900,7 +935,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 248271
     },
     {
       "id": "1101",
@@ -925,7 +961,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "2912",
@@ -950,7 +987,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 1338
     },
     {
       "id": "2801",
@@ -975,7 +1013,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "0050",
@@ -1000,7 +1039,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1102",
@@ -1025,7 +1065,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 362878
     },
     {
       "id": "1103",
@@ -1050,7 +1091,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1104",
@@ -1075,7 +1117,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 743
     },
     {
       "id": "1108",
@@ -1100,7 +1143,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1109",
@@ -1125,7 +1169,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 2966
     },
     {
       "id": "1110",
@@ -1150,7 +1195,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": true
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1201",
@@ -1175,7 +1221,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1203",
@@ -1200,7 +1247,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1210",
@@ -1225,7 +1273,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 457
     },
     {
       "id": "1213",
@@ -1250,7 +1299,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1215",
@@ -1275,7 +1325,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1217",
@@ -1300,7 +1351,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1218",
@@ -1325,7 +1377,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 3816
     },
     {
       "id": "1219",
@@ -1350,7 +1403,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1220",
@@ -1375,7 +1429,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1225",
@@ -1400,7 +1455,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1227",
@@ -1425,7 +1481,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1229",
@@ -1450,7 +1507,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 114
     },
     {
       "id": "1231",
@@ -1475,7 +1533,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 169
     },
     {
       "id": "1232",
@@ -1500,7 +1559,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1233",
@@ -1525,7 +1585,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1234",
@@ -1550,7 +1611,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1235",
@@ -1575,7 +1637,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1236",
@@ -1600,7 +1663,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1256",
@@ -1625,7 +1689,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1304",
@@ -1650,7 +1715,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1305",
@@ -1675,7 +1741,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1307",
@@ -1700,7 +1767,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1308",
@@ -1725,7 +1793,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1309",
@@ -1750,7 +1819,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1310",
@@ -1775,7 +1845,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1312",
@@ -1800,7 +1871,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1313",
@@ -1825,7 +1897,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1314",
@@ -1850,7 +1923,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1315",
@@ -1875,7 +1949,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1316",
@@ -1900,7 +1975,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1319",
@@ -1925,7 +2001,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1321",
@@ -1950,7 +2027,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1323",
@@ -1975,7 +2053,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1324",
@@ -2000,7 +2079,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1325",
@@ -2025,7 +2105,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1337",
@@ -2050,7 +2131,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1338",
@@ -2075,7 +2157,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1339",
@@ -2100,7 +2183,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1340",
@@ -2125,7 +2209,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1341",
@@ -2150,7 +2235,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1342",
@@ -2175,7 +2261,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1402",
@@ -2200,7 +2287,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1409",
@@ -2225,7 +2313,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1410",
@@ -2250,7 +2339,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1413",
@@ -2275,7 +2365,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1414",
@@ -2300,7 +2391,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1416",
@@ -2325,7 +2417,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1417",
@@ -2350,7 +2443,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 137
     },
     {
       "id": "1418",
@@ -2375,7 +2469,8 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": null
     },
     {
       "id": "1419",
@@ -2400,7 +2495,8 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": false
+      "kdGolden": false,
+      "dealerHoldings": 1264
     }
   ]
 }
