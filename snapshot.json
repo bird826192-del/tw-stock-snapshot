@@ -1150,7 +1150,7 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": false
+      "kdGolden": true
     },
     {
       "id": "1201",
@@ -1450,7 +1450,7 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": true,
       "aboveBreakoutLow": true,
-      "kdGolden": true
+      "kdGolden": false
     },
     {
       "id": "1231",
@@ -2275,7 +2275,7 @@
       "ma60Slope5Up": false,
       "closeAboveMa60": false,
       "aboveBreakoutLow": false,
-      "kdGolden": true
+      "kdGolden": false
     },
     {
       "id": "1414",
