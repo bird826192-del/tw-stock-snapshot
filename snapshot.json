@@ -1195,7 +1195,7 @@
       "ma60Slope5Up": true,
       "closeAboveMa60": true,
       "aboveBreakoutLow": false,
-      "kdGolden": true,
+      "kdGolden": false,
       "dealerHoldings": null
     },
     {
