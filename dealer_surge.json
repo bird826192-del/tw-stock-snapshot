@@ -1,5 +1,20 @@
 {
-  "generatedAt": "2026-07-02T02:58:47+08:00",
+  "generatedAt": "2026-07-02T03:54:13+08:00",
   "tradingDate": "2026-07-02",
-  "stocks": []
+  "stocks": [
+    {
+      "id": "2884",
+      "name": "玉山金",
+      "close": 32.9,
+      "date": "2026-07-02",
+      "changePct": null,
+      "k": 18.55,
+      "d": 36.73,
+      "dealer1dAmtW": 7478,
+      "dealer5dAmtW": 10926,
+      "foreign1dAmtW": 44082,
+      "foreign5dAmtW": -235274,
+      "rank": 1
+    }
+  ]
 }
