@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-07-02T13:48:19+08:00",
+  "generatedAt": "2026-07-02T15:56:11+08:00",
   "tradingDate": "2026-07-02",
   "stocks": [
     {
-      "id": "2884",
-      "name": "玉山金",
-      "close": 32.9,
+      "id": "3081",
+      "name": "聯亞",
+      "close": 1940.0,
       "date": "2026-07-02",
       "changePct": null,
-      "k": 18.55,
-      "d": 36.73,
-      "drawdown30": 10.11,
-      "dealer1dAmtW": 7478,
-      "dealer5dAmtW": 10926,
-      "foreign1dAmtW": 44082,
-      "foreign5dAmtW": -235274,
-      "margin5dChg": -14.1,
-      "stars": 4,
+      "k": 15.1,
+      "d": 20.2,
+      "drawdown30": 29.6,
+      "dealer1dAmtW": -884,
+      "dealer5dAmtW": 18415,
+      "foreign1dAmtW": 111053,
+      "foreign5dAmtW": 246479,
+      "margin5dChg": -0.6,
+      "stars": 3,
       "rank": 1
     }
   ]
