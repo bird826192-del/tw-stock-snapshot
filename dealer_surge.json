@@ -1,23 +1,5 @@
 {
-  "generatedAt": "2026-07-02T15:56:11+08:00",
+  "generatedAt": "2026-07-02T16:21:22+08:00",
   "tradingDate": "2026-07-02",
-  "stocks": [
-    {
-      "id": "3081",
-      "name": "聯亞",
-      "close": 1940.0,
-      "date": "2026-07-02",
-      "changePct": null,
-      "k": 15.1,
-      "d": 20.2,
-      "drawdown30": 29.6,
-      "dealer1dAmtW": -884,
-      "dealer5dAmtW": 18415,
-      "foreign1dAmtW": 111053,
-      "foreign5dAmtW": 246479,
-      "margin5dChg": -0.6,
-      "stars": 3,
-      "rank": 1
-    }
-  ]
+  "stocks": []
 }
