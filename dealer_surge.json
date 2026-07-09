@@ -1,44 +1,5 @@
 {
-  "generatedAt": "2026-07-08T15:30:00+08:00",
-  "tradingDate": "2026-07-08",
-  "stocks": [
-    {
-      "id": "3105",
-      "name": "穩懋",
-      "close": 413.5,
-      "date": "2026-07-08",
-      "changePct": null,
-      "k": 16.1,
-      "d": 15.2,
-      "drawdown30": 27.5,
-      "divNote": "除息2.0元已扣(原距高-28%)",
-      "exDivUpcoming": null,
-      "dealer1dAmtW": 2068,
-      "dealer5dAmtW": 13439,
-      "foreign1dAmtW": 12857,
-      "foreign5dAmtW": -62248,
-      "margin5dChg": 2.3,
-      "stars": 3,
-      "rank": 1
-    },
-    {
-      "id": "3529",
-      "name": "力旺",
-      "close": 2680.0,
-      "date": "2026-07-08",
-      "changePct": null,
-      "k": 13.6,
-      "d": 16.9,
-      "drawdown30": 21.7,
-      "divNote": "除息20.5元已扣(原距高-22%)",
-      "exDivUpcoming": null,
-      "dealer1dAmtW": 2799,
-      "dealer5dAmtW": 10608,
-      "foreign1dAmtW": 44709,
-      "foreign5dAmtW": 116620,
-      "margin5dChg": 6.0,
-      "stars": 2,
-      "rank": 2
-    }
-  ]
+  "generatedAt": "2026-07-09T15:30:01+08:00",
+  "tradingDate": "2026-07-09",
+  "stocks": []
 }
