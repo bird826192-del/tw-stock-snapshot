@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>股災防護儀表板</title>
+<style>
+  :root { color-scheme: light dark;
+    --bg:#faf9f5; --card:#fff; --ink:#0b0b0b; --sub:#52514e; --mut:#898781; --line:rgba(11,11,11,.1);
+    --ok:#0ca30c; --warn:#fab219; --hot:#ec835a; --crit:#d03b3b; }
+  @media (prefers-color-scheme: dark) { :root {
+    --bg:#1a1a19; --card:#242423; --ink:#fff; --sub:#c3c2b7; --mut:#898781; --line:rgba(255,255,255,.1); } }
+  * { box-sizing:border-box; margin:0 }
+  body { font-family:-apple-system,"PingFang TC",sans-serif; background:var(--bg); color:var(--ink);
+         max-width:720px; margin:0 auto; padding:24px 16px; }
+  h1 { font-size:20px; font-weight:500 }
+  .date { color:var(--mut); font-size:13px; margin:4px 0 20px }
+  .hero { background:var(--card); border:0.5px solid var(--line); border-radius:12px;
+          padding:20px; display:flex; align-items:center; gap:20px; margin-bottom:16px }
+  .lvl { font-size:56px; font-weight:500; line-height:1; min-width:90px; text-align:center }
+  .lvl small { font-size:18px; color:var(--mut); font-weight:400 }
+  .verdict { font-size:17px; font-weight:500 }
+  .advice { font-size:14px; color:var(--sub); margin-top:6px; line-height:1.6 }
+  .meter { display:flex; gap:4px; margin:14px 0 0 }
+  .meter span { flex:1; height:8px; border-radius:4px; background:var(--line) }
+  .sig { background:var(--card); border:0.5px solid var(--line); border-radius:12px;
+         padding:14px 16px; margin-bottom:10px; display:flex; gap:12px; align-items:flex-start }
+  .dot { width:12px; height:12px; border-radius:50%; margin-top:5px; flex:none; background:var(--ok) }
+  .sig h3 { font-size:15px; font-weight:500 }
+  .sig p { font-size:13px; color:var(--sub); margin-top:3px; line-height:1.55 }
+  .sig .src { font-size:12px; color:var(--mut); margin-top:4px }
+  .val { margin-left:auto; text-align:right; font-size:14px; font-variant-numeric:tabular-nums;
+         color:var(--sub); flex:none }
+  footer { color:var(--mut); font-size:12px; margin-top:18px; line-height:1.6 }
+</style>
+</head>
+<body>
+<h1>股災防護儀表板</h1>
+<p class="date" id="date">—</p>
+
+<div class="hero">
+  <div class="lvl"><span id="lvl">–</span><small id="maxlvl">/4</small></div>
+  <div>
+    <p class="verdict" id="verdict">載入中…</p>
+    <p class="advice" id="advice"></p>
+    <div class="meter" id="meter"><span></span><span></span><span></span><span></span></div>
+  </div>
+</div>
+
+<div id="signals"></div>
+
+<div class="sig" id="histcard" style="display:none; flex-direction:column; gap:8px;">
+  <h3 style="font-size:15px; font-weight:500;">近 60 個交易日警戒等級</h3>
+  <div id="histbars" style="display:flex; align-items:flex-end; gap:2px; height:48px;"></div>
+  <p id="histsum" style="font-size:12px; color:var(--mut); margin:0;"></p>
+</div>
+
+<footer>
+  指標依據知識庫崩盤研究：Morris《Market Breadth Indicators》、Miekka/Fosback 興登堡凶兆、
+  1929 融資斷頭螺旋、崩盤通則定義（數日內指數 &gt;10%）。每日 15:30 掃描後更新。非投資建議。
+</footer>
+
+<script src="market_guard.js"></script>
+<script>
+(function () {
+  var g = window.GUARD;
+  if (!g) { document.getElementById("verdict").textContent = "找不到 market_guard.js — 先跑 15:30 掃描"; return; }
+  var C = { ok:"var(--ok)", warn:"var(--warn)", hot:"var(--hot)", crit:"var(--crit)" };
+  var lvl = g.level || 0, max = g.maxLevel || 4;
+  var tone = lvl >= 3 ? "crit" : lvl === 2 ? "hot" : lvl === 1 ? "warn" : "ok";
+  var verdicts = ["市場健康，無崩盤前兆", "⚠️ 轉弱注意 — 一項前兆亮燈", "🚨 股災警戒 — 停損收緊 -10%",
+                  "🚨🚨 高度警戒 — 停損收緊 -10%、新買減半", "🚨🚨 全面警戒 — 停損收緊 -10%、新買減半"];
+  var advices = ["照常執行策略（大盤弱時買訊勝率反而最高）",
+                 "留意後續是否亮第二燈；持股照 -15% 停損",
+                 "持股跌破成本 -10% 即賣（原 -15%）· 新買訊減半部位",
+                 "賣壓高潮進行中 — 只出不進，等訊號退散",
+                 "所有前兆同時亮 — 只出不進，等訊號退散"];
+  document.getElementById("date").textContent = "資料日 " + (g.date || "?") +
+    "（宇宙 " + (g.universeN || "?") + " 檔）";
+  var lv = document.getElementById("lvl");
+  lv.textContent = lvl; lv.style.color = C[tone];
+  document.getElementById("maxlvl").textContent = "/" + max;
+  document.getElementById("verdict").textContent = verdicts[Math.min(lvl, 4)];
+  document.getElementById("advice").textContent = advices[Math.min(lvl, 4)];
+  var bars = document.querySelectorAll("#meter span");
+  for (var i = 0; i < lvl && i < bars.length; i++) bars[i].style.background = C[tone];
+
+  var reasons = g.reasons || [];
+  function hit(kw) { return reasons.some(function (r) { return r.indexOf(kw) >= 0; }); }
+  function fmt(v, suffix) { return v == null ? "—" : v + (suffix || ""); }
+  var ad = g.advDecLast || [null, null];
+  var sigs = [
+    { on: hit("廣度"), name: "市場廣度惡化",
+      desc: "10日累積騰落淨值<0 且 當日跌家數≥漲家數×2（跌家數持續壓過漲家數＝空方主導）",
+      src: "Morris《Market Breadth Indicators》",
+      val: "10日騰落 " + fmt(g.adv10Net) + "\n今日 漲" + fmt(ad[0]) + "：跌" + fmt(ad[1]) },
+    { on: hit("興登堡"), name: "興登堡凶兆",
+      desc: "252日(52週)新高與新低家數同時≥2.8% 且大盤高於50日前；30交易日內≥2次才確認（單日＝雜訊）",
+      src: "Miekka／Fosback High-Low Logic Index（原版確認條款）",
+      val: "新高 " + fmt(g.newHigh252, "檔") + "\n新低 " + fmt(g.newLow252, "檔") +
+           "\n30日內 " + fmt(g.hindRaw30d, "次") },
+    { on: hit("融資斷頭"), name: "融資斷頭螺旋",
+      desc: "全市場融資金額餘額 5日減≥2%（追繳→強制賣→再跌的正回饋）",
+      src: "1929 margin-call cascade 研究",
+      val: "融資5日 " + fmt(g.marginMoney5dChg, "%") },
+    { on: hit("賣壓高潮"), name: "賣壓高潮（崩盤進行中）",
+      desc: "TAIEX 距20日高≥10% → 直接最高警戒",
+      src: "崩盤通則定義：數日內指數跌逾10%",
+      val: "距20日高 -" + fmt(g.taiexDD20, "%") },
+    { on: (g.ndcRedStreak || 0) >= 2, amber: true, name: "景氣紅燈（月級資訊，不計等級）",
+      desc: "國發會景氣對策信號連續紅燈≥2月＝過熱。1994 後 10 段紅燈：後12月股價中位 −2%（基準 +9.9%）、12月內最深回撤中位 −13%；2021 連9紅接 2022 熊市。80年代狂牛例外",
+      src: "國發會 1982–今 42 年資料，data.gov.tw",
+      val: (g.ndcLight ? g.ndcLight + "燈 " + (g.ndcScore != null ? g.ndcScore + "分" : "") : "—") +
+           "\n連紅 " + (g.ndcRedStreak != null ? g.ndcRedStreak + "個月" : "—") },
+    { on: !!g.optTiltExtreme, amber: true, name: "外資極端避險（資訊級，不計等級）",
+      desc: "外資選擇權 put淨多−call淨多 ≥ +23,000口（七年前10%）。回測10段極端：3段接崩盤（含COVID崩前高點、2024-08提前4日）、6段假。短線偏空傾向",
+      src: "TAIFEX 三大法人選擇權未平倉，六年回測",
+      val: "傾斜 " + (g.foreignOptTilt != null ? g.foreignOptTilt.toLocaleString() + "口" : "—") },
+    { on: !!g.fragile, amber: true, name: "高點直崩前置（資訊級，不計等級）",
+      desc: "融資餘額貼52週高（2%內）＋大盤200MA乖離≥20%＝柴堆滿。七年僅3段，前兩段結尾即 2021-05 與 2024-08 直崩。可持續數月—新倉減碼油門，不是賣點",
+      src: "1929 先決條件（融資高檔＋過度延伸），六年回測驗證",
+      val: "乖離 " + fmt(g.taiexBias200, "%") + "\n融資距52週高 " + fmt(g.marginVs52wHi, "%") },
+  ];
+  if (hit("升級閘")) {
+    var note = document.createElement("p");
+    note.style.cssText = "font-size:13px;color:var(--sub);margin:-6px 0 12px;";
+    note.textContent = "升級閘生效：警戒升 2 級需「融資斷頭 + 破季線(60MA) + 破年線(200MA)」同時成立" +
+      "（六年回測：只剩 6 個警戒事件＝5 次真崩盤全抓＋1 次假警報）。" +
+      "目前融資5日 " + fmt(g.marginMoney5dChg, "%") +
+      "、季線" + (g.taiexBelow60ma ? "已破" : "上") + "、年線" + (g.taiexBelow200ma ? "已破" : "上") +
+      "，故封頂 1 級。";
+    document.getElementById("signals").before(note);
+  }
+  var hist = window.GUARD_HIST || [];
+  if (hist.length) {
+    document.getElementById("histcard").style.display = "flex";
+    var bars = document.getElementById("histbars");
+    var warn10 = 0;
+    hist.forEach(function (h, idx) {
+      var b = document.createElement("span");
+      var lv = h.level || 0;
+      b.style.cssText = "flex:1;border-radius:2px;height:" + (lv ? lv * 25 : 6) + "%;background:" +
+        (lv >= 3 ? C.crit : lv === 2 ? C.hot : lv === 1 ? C.warn : "var(--line)");
+      b.title = h.date + " 等級" + lv + (h.below200 ? " 破年線" : "");
+      bars.appendChild(b);
+      if (idx >= hist.length - 10 && lv >= 1) warn10++;
+    });
+    var last = hist[hist.length - 1];
+    var grind = warn10 >= 5 && (last.below200 || last.below60);
+    document.getElementById("histsum").textContent =
+      "近10日⚠️ " + warn10 + " 天 · " + (last.below200 ? "已破年線" : "年線上") +
+      "、" + (last.below60 ? "已破季線" : "季線上") +
+      (grind ? " — ⚠️密集＋均線失守＝陰跌期特徵（參考 2025/2–3 月）：新倉分批減碼、多留現金" : "");
+  }
+  var wrap = document.getElementById("signals");
+  sigs.forEach(function (s) {
+    var div = document.createElement("div");
+    div.className = "sig";
+    div.innerHTML =
+      '<span class="dot"></span><div><h3></h3><p></p><p class="src"></p></div><div class="val"></div>';
+    div.querySelector(".dot").style.background = s.on ? (s.amber ? C.warn : C.crit) : C.ok;
+    div.querySelector("h3").textContent = (s.on ? (s.amber ? "🔶 " : "🔴 ") : "🟢 ") + s.name;
+    div.querySelector("p").textContent = s.desc;
+    div.querySelector(".src").textContent = "依據：" + s.src;
+    div.querySelector(".val").innerText = s.val;
+    wrap.appendChild(div);
+  });
+})();
+</script>
+</body>
+</html>
