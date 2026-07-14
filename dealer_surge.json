@@ -1,5 +1,50 @@
 {
-  "generatedAt": "2026-07-13T15:30:00+08:00",
-  "tradingDate": "2026-07-13",
-  "stocks": []
+  "generatedAt": "2026-07-14T15:30:03+08:00",
+  "tradingDate": "2026-07-14",
+  "stocks": [
+    {
+      "id": "2308",
+      "name": "台達電",
+      "close": 1855.0,
+      "date": "2026-07-14",
+      "changePct": null,
+      "k": 24.3,
+      "d": 30.3,
+      "drawdown30": 19.5,
+      "divNote": "除息11.6元已扣: 除息前-20.0% → 扣後-19.5%",
+      "exDivUpcoming": null,
+      "atrPct": 5.0,
+      "hiConf": false,
+      "mktCap": 48186,
+      "dealer1dAmtW": 7062,
+      "dealer5dAmtW": 43725,
+      "foreign1dAmtW": 48500,
+      "foreign5dAmtW": -896910,
+      "margin5dChg": -1.2,
+      "stars": 5,
+      "rank": 1
+    },
+    {
+      "id": "2409",
+      "name": "友達",
+      "close": 27.55,
+      "date": "2026-07-14",
+      "changePct": null,
+      "k": 27.2,
+      "d": 38.0,
+      "drawdown30": 20.0,
+      "divNote": null,
+      "exDivUpcoming": "⚠️2026-07-30即將除權息(現金0.4元)",
+      "atrPct": 8.5,
+      "hiConf": false,
+      "mktCap": 2081,
+      "dealer1dAmtW": -27161,
+      "dealer5dAmtW": 16401,
+      "foreign1dAmtW": -294767,
+      "foreign5dAmtW": 256621,
+      "margin5dChg": -7.8,
+      "stars": 2,
+      "rank": 2
+    }
+  ]
 }
