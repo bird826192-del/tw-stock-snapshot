@@ -1,50 +1,5 @@
 {
-  "generatedAt": "2026-07-24T15:30:05+08:00",
-  "tradingDate": "2026-07-24",
-  "stocks": [
-    {
-      "id": "2382",
-      "name": "廣達",
-      "close": 328.0,
-      "date": "2026-07-24",
-      "changePct": null,
-      "k": 26.1,
-      "d": 26.1,
-      "drawdown30": 12.6,
-      "divNote": "除息15.6元已扣: 除息前-16.5% → 扣後-12.6%",
-      "exDivUpcoming": null,
-      "atrPct": 3.2,
-      "hiConf": false,
-      "mktCap": 12670,
-      "dealer1dAmtW": 16791,
-      "dealer5dAmtW": 107851,
-      "foreign1dAmtW": -49186,
-      "foreign5dAmtW": 396963,
-      "margin5dChg": 12.6,
-      "stars": 3,
-      "rank": 1
-    },
-    {
-      "id": "2885",
-      "name": "元大金",
-      "close": 63.1,
-      "date": "2026-07-24",
-      "changePct": null,
-      "k": 26.3,
-      "d": 24.4,
-      "drawdown30": 10.2,
-      "divNote": "除息1.8元已扣: 除息前-12.7% → 扣後-10.2%",
-      "exDivUpcoming": null,
-      "atrPct": 3.2,
-      "hiConf": false,
-      "mktCap": 8414,
-      "dealer1dAmtW": -780,
-      "dealer5dAmtW": 29883,
-      "foreign1dAmtW": 33125,
-      "foreign5dAmtW": 158624,
-      "margin5dChg": 22.8,
-      "stars": 2,
-      "rank": 2
-    }
-  ]
+  "generatedAt": "2026-07-27T15:30:05+08:00",
+  "tradingDate": "2026-07-27",
+  "stocks": []
 }
