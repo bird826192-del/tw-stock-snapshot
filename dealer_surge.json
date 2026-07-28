@@ -1,5 +1,30 @@
 {
-  "generatedAt": "2026-07-27T15:30:05+08:00",
-  "tradingDate": "2026-07-27",
-  "stocks": []
+  "generatedAt": "2026-07-28T15:30:02+08:00",
+  "tradingDate": "2026-07-28",
+  "stocks": [
+    {
+      "id": "2303",
+      "name": "聯電",
+      "close": 113.5,
+      "date": "2026-07-28",
+      "changePct": null,
+      "k": 12.8,
+      "d": 20.5,
+      "drawdown30": 33.1,
+      "divNote": "除息2.60808262元已扣: 除息前-34.6% → 扣後-33.1%",
+      "exDivUpcoming": null,
+      "atrPct": 6.1,
+      "hiConf": false,
+      "mktCap": 14278,
+      "dealer1dAmtW": -56345,
+      "dealer5dAmtW": 55157,
+      "foreign1dAmtW": 489456,
+      "foreign5dAmtW": 447028,
+      "foreign20dAmtW": 1511063,
+      "capitulationFlip": false,
+      "margin5dChg": -12.3,
+      "stars": 3,
+      "rank": 1
+    }
+  ]
 }
