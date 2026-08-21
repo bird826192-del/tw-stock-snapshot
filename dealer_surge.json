@@ -1,5 +1,30 @@
 {
-  "generatedAt": "2026-08-20T21:00:01+08:00",
-  "tradingDate": "2026-08-20",
-  "stocks": []
+  "generatedAt": "2026-08-21T15:30:03+08:00",
+  "tradingDate": "2026-08-21",
+  "stocks": [
+    {
+      "id": "2303",
+      "name": "聯電",
+      "close": 116.5,
+      "date": "2026-08-21",
+      "changePct": null,
+      "k": 27.5,
+      "d": 36.2,
+      "drawdown30": 10.7,
+      "divNote": null,
+      "exDivUpcoming": null,
+      "atrPct": 4.9,
+      "hiConf": false,
+      "mktCap": 14647,
+      "dealer1dAmtW": 5081,
+      "dealer5dAmtW": -50034,
+      "foreign1dAmtW": 311454,
+      "foreign5dAmtW": 469554,
+      "foreign20dAmtW": -175612,
+      "capitulationFlip": false,
+      "margin5dChg": -6.2,
+      "stars": 0,
+      "rank": 1
+    }
+  ]
 }
