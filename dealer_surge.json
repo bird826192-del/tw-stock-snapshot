@@ -1,5 +1,30 @@
 {
-  "generatedAt": "2026-09-09T08:00:11+08:00",
-  "tradingDate": "2026-09-08",
-  "stocks": []
+  "generatedAt": "2026-09-09T15:30:07+08:00",
+  "tradingDate": "2026-09-09",
+  "stocks": [
+    {
+      "id": "2059",
+      "name": "川湖",
+      "close": 12400.0,
+      "date": "2026-09-09",
+      "changePct": null,
+      "k": 20.3,
+      "d": 33.9,
+      "drawdown30": 17.5,
+      "divNote": "除息51.0元已扣: 除息前-17.8% → 扣後-17.5%",
+      "exDivUpcoming": null,
+      "atrPct": 5.3,
+      "hiConf": false,
+      "mktCap": 11821,
+      "dealer1dAmtW": 37008,
+      "dealer5dAmtW": 46183,
+      "foreign1dAmtW": 22259,
+      "foreign5dAmtW": 40245,
+      "foreign20dAmtW": -81306,
+      "capitulationFlip": false,
+      "margin5dChg": 5.9,
+      "stars": 3,
+      "rank": 1
+    }
+  ]
 }
