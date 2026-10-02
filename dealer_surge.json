@@ -1,7 +1,31 @@
 {
-  "generatedAt": "2026-10-01T15:30:04+08:00",
+  "generatedAt": "2026-10-02T08:00:12+08:00",
   "tradingDate": "2026-10-01",
   "stocks": [
+    {
+      "id": "3008",
+      "name": "大立光",
+      "close": 6205.0,
+      "date": "2026-10-01",
+      "changePct": null,
+      "k": 27.7,
+      "d": 27.2,
+      "drawdown30": 22.0,
+      "divNote": null,
+      "exDivUpcoming": null,
+      "atrPct": 5.7,
+      "hiConf": false,
+      "mktCap": 8118,
+      "dealer1dAmtW": 35115,
+      "dealer5dAmtW": 43029,
+      "foreign1dAmtW": 72287,
+      "foreign5dAmtW": -462714,
+      "foreign20dAmtW": -1117102,
+      "capitulationFlip": true,
+      "margin5dChg": 3.7,
+      "stars": 3,
+      "rank": 1
+    },
     {
       "id": "2059",
       "name": "川湖",
@@ -15,16 +39,16 @@
       "exDivUpcoming": null,
       "atrPct": 4.8,
       "hiConf": false,
-      "mktCap": 11279,
+      "mktCap": 11281,
       "dealer1dAmtW": 46,
       "dealer5dAmtW": 89479,
       "foreign1dAmtW": 27484,
       "foreign5dAmtW": 282159,
       "foreign20dAmtW": 25644,
       "capitulationFlip": false,
-      "margin5dChg": 0.3,
+      "margin5dChg": 2.2,
       "stars": 2,
-      "rank": 1
+      "rank": 2
     }
   ]
 }
