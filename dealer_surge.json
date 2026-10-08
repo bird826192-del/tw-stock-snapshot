@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T15:30:00+08:00",
+  "generatedAt": "2026-10-08T08:00:12+08:00",
   "tradingDate": "2026-10-07",
   "stocks": [
     {
@@ -22,7 +22,7 @@
       "foreign5dAmtW": -3449,
       "foreign20dAmtW": 246622,
       "capitulationFlip": false,
-      "margin5dChg": 3.9,
+      "margin5dChg": -5.2,
       "stars": 3,
       "rank": 1
     }
