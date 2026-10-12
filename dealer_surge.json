@@ -1,5 +1,30 @@
 {
-  "generatedAt": "2026-10-09T08:00:12+08:00",
-  "tradingDate": "2026-10-08",
-  "stocks": []
+  "generatedAt": "2026-10-12T15:30:03+08:00",
+  "tradingDate": "2026-10-12",
+  "stocks": [
+    {
+      "id": "5274",
+      "name": "信驊",
+      "close": 17695.0,
+      "date": "2026-10-12",
+      "changePct": null,
+      "k": 29.0,
+      "d": 28.8,
+      "drawdown30": 18.8,
+      "divNote": null,
+      "exDivUpcoming": null,
+      "atrPct": 4.9,
+      "hiConf": false,
+      "mktCap": 7358,
+      "dealer1dAmtW": -1805,
+      "dealer5dAmtW": 33325,
+      "foreign1dAmtW": 24196,
+      "foreign5dAmtW": -223506,
+      "foreign20dAmtW": -200934,
+      "capitulationFlip": true,
+      "margin5dChg": -2.2,
+      "stars": 3,
+      "rank": 1
+    }
+  ]
 }
