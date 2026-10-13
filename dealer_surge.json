@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T15:30:03+08:00",
+  "generatedAt": "2026-10-13T08:00:10+08:00",
   "tradingDate": "2026-10-12",
   "stocks": [
     {
@@ -15,14 +15,14 @@
       "exDivUpcoming": null,
       "atrPct": 4.9,
       "hiConf": false,
-      "mktCap": 7358,
+      "mktCap": 7359,
       "dealer1dAmtW": -1805,
       "dealer5dAmtW": 33325,
       "foreign1dAmtW": 24196,
       "foreign5dAmtW": -223506,
       "foreign20dAmtW": -200934,
       "capitulationFlip": true,
-      "margin5dChg": -2.2,
+      "margin5dChg": -5.0,
       "stars": 3,
       "rank": 1
     }
