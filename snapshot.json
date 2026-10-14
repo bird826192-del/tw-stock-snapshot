@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T15:30:02+08:00",
+  "generatedAt": "2026-10-14T08:00:14+08:00",
   "tradingDate": "2026-10-13",
   "stocks": [
     {
@@ -10,14 +10,14 @@
       "changePct": -1.97,
       "k": 52.71,
       "d": 71.97,
-      "dealerNet": 1371306,
+      "dealerNet": 2491739,
       "date": "2026-10-13",
       "maUpDays": 18,
       "drawdown30": 3.86,
-      "dealerBuyPct": 4.38,
-      "volSpike": 1.84,
-      "dealer1dAmtW": 341455,
-      "dealer5dAmtW": 800747
+      "dealerBuyPct": 5.47,
+      "volSpike": 1.85,
+      "dealer1dAmtW": 620443,
+      "dealer5dAmtW": 1298768
     },
     {
       "id": "2317",
@@ -27,14 +27,14 @@
       "changePct": -1.84,
       "k": 17.02,
       "d": 31.49,
-      "dealerNet": 28880,
+      "dealerNet": 371097,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 9.94,
-      "dealerBuyPct": 1.94,
+      "dealerBuyPct": 2.18,
       "volSpike": 1.25,
-      "dealer1dAmtW": 693,
-      "dealer5dAmtW": 10971
+      "dealer1dAmtW": 8906,
+      "dealer5dAmtW": 10881
     },
     {
       "id": "2454",
@@ -44,14 +44,14 @@
       "changePct": -2.16,
       "k": 13.2,
       "d": 22.47,
-      "dealerNet": 136115,
+      "dealerNet": 130355,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 17.43,
-      "dealerBuyPct": 3.51,
+      "dealerBuyPct": 3.84,
       "volSpike": 1.02,
-      "dealer1dAmtW": 61592,
-      "dealer5dAmtW": 31886
+      "dealer1dAmtW": 58986,
+      "dealer5dAmtW": 35682
     },
     {
       "id": "2308",
@@ -61,14 +61,14 @@
       "changePct": -6.58,
       "k": 36.32,
       "d": 56.33,
-      "dealerNet": 5776,
+      "dealerNet": -194446,
       "date": "2026-10-13",
       "maUpDays": 14,
       "drawdown30": 16.08,
-      "dealerBuyPct": 8.37,
+      "dealerBuyPct": 7.67,
       "volSpike": 1.22,
-      "dealer1dAmtW": 1025,
-      "dealer5dAmtW": 25992
+      "dealer1dAmtW": -34514,
+      "dealer5dAmtW": -72338
     },
     {
       "id": "2382",
@@ -78,14 +78,14 @@
       "changePct": 0.31,
       "k": 21.92,
       "d": 22.94,
-      "dealerNet": 102312,
+      "dealerNet": 263150,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 8.11,
-      "dealerBuyPct": 1.77,
-      "volSpike": 0.87,
-      "dealer1dAmtW": 3305,
-      "dealer5dAmtW": 9217
+      "dealerBuyPct": 1.92,
+      "volSpike": 0.93,
+      "dealer1dAmtW": 8500,
+      "dealer5dAmtW": 16116
     },
     {
       "id": "2412",
@@ -95,14 +95,14 @@
       "changePct": 1.02,
       "k": 85.41,
       "d": 77.62,
-      "dealerNet": -483184,
+      "dealerNet": -588017,
       "date": "2026-10-13",
       "maUpDays": 24,
       "drawdown30": 0.0,
       "dealerBuyPct": null,
       "volSpike": 1.2,
-      "dealer1dAmtW": -7151,
-      "dealer5dAmtW": -11517
+      "dealer1dAmtW": -8703,
+      "dealer5dAmtW": -20886
     },
     {
       "id": "2891",
@@ -112,14 +112,14 @@
       "changePct": 2.58,
       "k": 61.01,
       "d": 42.95,
-      "dealerNet": 1245338,
+      "dealerNet": 2240629,
       "date": "2026-10-13",
       "maUpDays": 2,
       "drawdown30": 0.56,
-      "dealerBuyPct": 3.57,
+      "dealerBuyPct": 4.19,
       "volSpike": 1.99,
-      "dealer1dAmtW": 8917,
-      "dealer5dAmtW": 27255
+      "dealer1dAmtW": 16043,
+      "dealer5dAmtW": 42090
     },
     {
       "id": "1303",
@@ -129,14 +129,14 @@
       "changePct": 5.28,
       "k": 88.43,
       "d": 85.04,
-      "dealerNet": 492009,
+      "dealerNet": 1373568,
       "date": "2026-10-13",
       "maUpDays": 35,
       "drawdown30": 0.93,
-      "dealerBuyPct": 4.82,
+      "dealerBuyPct": 5.65,
       "volSpike": 1.66,
-      "dealer1dAmtW": 15695,
-      "dealer5dAmtW": 47819
+      "dealer1dAmtW": 43817,
+      "dealer5dAmtW": 89460
     },
     {
       "id": "1301",
@@ -146,14 +146,14 @@
       "changePct": 0.25,
       "k": 85.87,
       "d": 83.83,
-      "dealerNet": -886704,
+      "dealerNet": -1286464,
       "date": "2026-10-13",
       "maUpDays": 7,
       "drawdown30": 3.69,
-      "dealerBuyPct": 4.42,
+      "dealerBuyPct": 1.05,
       "volSpike": 2.76,
-      "dealer1dAmtW": -7173,
-      "dealer5dAmtW": 3776
+      "dealer1dAmtW": -10407,
+      "dealer5dAmtW": -5566
     },
     {
       "id": "2881",
@@ -163,14 +163,14 @@
       "changePct": 0.95,
       "k": 80.23,
       "d": 70.66,
-      "dealerNet": 180330,
+      "dealerNet": 121767,
       "date": "2026-10-13",
       "maUpDays": 35,
       "drawdown30": 0.93,
-      "dealerBuyPct": 4.22,
+      "dealerBuyPct": 4.43,
       "volSpike": 1.29,
-      "dealer1dAmtW": 2885,
-      "dealer5dAmtW": 6069
+      "dealer1dAmtW": 1948,
+      "dealer5dAmtW": 8260
     },
     {
       "id": "2882",
@@ -180,14 +180,14 @@
       "changePct": 1.33,
       "k": 68.35,
       "d": 56.46,
-      "dealerNet": 393704,
+      "dealerNet": 182790,
       "date": "2026-10-13",
       "maUpDays": 2,
       "drawdown30": 2.14,
-      "dealerBuyPct": 4.29,
-      "volSpike": 1.03,
-      "dealer1dAmtW": 4508,
-      "dealer5dAmtW": 8658
+      "dealerBuyPct": 4.62,
+      "volSpike": 1.06,
+      "dealer1dAmtW": 2093,
+      "dealer5dAmtW": 11293
     },
     {
       "id": "6505",
@@ -197,14 +197,14 @@
       "changePct": 9.68,
       "k": 88.2,
       "d": 84.24,
-      "dealerNet": 103494,
+      "dealerNet": 85783,
       "date": "2026-10-13",
       "maUpDays": 31,
       "drawdown30": 0.0,
-      "dealerBuyPct": 1.33,
+      "dealerBuyPct": 1.8,
       "volSpike": 2.38,
-      "dealer1dAmtW": 1232,
-      "dealer5dAmtW": -389
+      "dealer1dAmtW": 1021,
+      "dealer5dAmtW": 6964
     },
     {
       "id": "3711",
@@ -214,14 +214,14 @@
       "changePct": -2.89,
       "k": 78.77,
       "d": 81.31,
-      "dealerNet": 249789,
+      "dealerNet": -165641,
       "date": "2026-10-13",
       "maUpDays": 17,
       "drawdown30": 3.27,
-      "dealerBuyPct": 6.06,
+      "dealerBuyPct": 5.86,
       "volSpike": 1.09,
-      "dealer1dAmtW": 18484,
-      "dealer5dAmtW": 73241
+      "dealer1dAmtW": -12257,
+      "dealer5dAmtW": 48033
     },
     {
       "id": "2002",
@@ -231,14 +231,14 @@
       "changePct": -0.26,
       "k": 64.97,
       "d": 57.49,
-      "dealerNet": 668411,
+      "dealerNet": -206125,
       "date": "2026-10-13",
       "maUpDays": 1,
       "drawdown30": 0.78,
-      "dealerBuyPct": 1.15,
+      "dealerBuyPct": 1.06,
       "volSpike": 0.98,
-      "dealer1dAmtW": 1280,
-      "dealer5dAmtW": 1707
+      "dealer1dAmtW": -395,
+      "dealer5dAmtW": 1247
     },
     {
       "id": "2603",
@@ -248,14 +248,14 @@
       "changePct": 3.33,
       "k": 64.87,
       "d": 46.77,
-      "dealerNet": 541662,
+      "dealerNet": 855899,
       "date": "2026-10-13",
       "maUpDays": 3,
       "drawdown30": 0.0,
-      "dealerBuyPct": 2.24,
+      "dealerBuyPct": 3.15,
       "volSpike": 6.84,
-      "dealer1dAmtW": 14300,
-      "dealer5dAmtW": 17392
+      "dealer1dAmtW": 22596,
+      "dealer5dAmtW": 44639
     },
     {
       "id": "2884",
@@ -265,14 +265,14 @@
       "changePct": 1.09,
       "k": 76.22,
       "d": 58.85,
-      "dealerNet": 1144903,
+      "dealerNet": 2389805,
       "date": "2026-10-13",
       "maUpDays": 2,
       "drawdown30": 1.8,
-      "dealerBuyPct": 20.17,
+      "dealerBuyPct": 23.99,
       "volSpike": 0.84,
-      "dealer1dAmtW": 5324,
-      "dealer5dAmtW": 13832
+      "dealer1dAmtW": 11113,
+      "dealer5dAmtW": 24140
     },
     {
       "id": "1216",
@@ -282,14 +282,14 @@
       "changePct": 1.45,
       "k": 79.12,
       "d": 59.35,
-      "dealerNet": 461306,
+      "dealerNet": 979337,
       "date": "2026-10-13",
       "maUpDays": 1,
       "drawdown30": 0.0,
-      "dealerBuyPct": 5.96,
+      "dealerBuyPct": 7.3,
       "volSpike": 1.8,
-      "dealer1dAmtW": 3557,
-      "dealer5dAmtW": 8730
+      "dealer1dAmtW": 7551,
+      "dealer5dAmtW": 16830
     },
     {
       "id": "2886",
@@ -299,14 +299,14 @@
       "changePct": 1.8,
       "k": 70.14,
       "d": 47.78,
-      "dealerNet": 1187565,
+      "dealerNet": 1582524,
       "date": "2026-10-13",
       "maUpDays": 1,
       "drawdown30": 3.78,
-      "dealerBuyPct": 3.3,
+      "dealerBuyPct": 3.72,
       "volSpike": 1.19,
-      "dealer1dAmtW": 6045,
-      "dealer5dAmtW": 18673
+      "dealer1dAmtW": 8055,
+      "dealer5dAmtW": 25342
     },
     {
       "id": "2885",
@@ -316,14 +316,14 @@
       "changePct": 0.71,
       "k": 70.48,
       "d": 55.16,
-      "dealerNet": 911246,
+      "dealerNet": 1879836,
       "date": "2026-10-13",
       "maUpDays": 2,
       "drawdown30": 1.53,
-      "dealerBuyPct": 4.73,
+      "dealerBuyPct": 5.72,
       "volSpike": 1.91,
-      "dealer1dAmtW": 6433,
-      "dealer5dAmtW": 26963
+      "dealer1dAmtW": 13272,
+      "dealer5dAmtW": 28535
     },
     {
       "id": "2892",
@@ -333,14 +333,14 @@
       "changePct": 2.02,
       "k": 68.18,
       "d": 46.47,
-      "dealerNet": 474831,
+      "dealerNet": 689132,
       "date": "2026-10-13",
       "maUpDays": 28,
       "drawdown30": 1.1,
-      "dealerBuyPct": 8.01,
+      "dealerBuyPct": 9.6,
       "volSpike": 1.07,
-      "dealer1dAmtW": 1923,
-      "dealer5dAmtW": 2000
+      "dealer1dAmtW": 2791,
+      "dealer5dAmtW": 5049
     },
     {
       "id": "2880",
@@ -350,14 +350,14 @@
       "changePct": 3.57,
       "k": 77.4,
       "d": 60.35,
-      "dealerNet": 1388335,
+      "dealerNet": 1885567,
       "date": "2026-10-13",
       "maUpDays": 24,
       "drawdown30": 0.5,
-      "dealerBuyPct": 5.74,
+      "dealerBuyPct": 6.49,
       "volSpike": 1.8,
-      "dealer1dAmtW": 6851,
-      "dealer5dAmtW": 21659
+      "dealer1dAmtW": 9305,
+      "dealer5dAmtW": 29503
     },
     {
       "id": "5880",
@@ -367,14 +367,14 @@
       "changePct": 1.49,
       "k": 71.36,
       "d": 51.06,
-      "dealerNet": 474109,
+      "dealerNet": 724214,
       "date": "2026-10-13",
       "maUpDays": 1,
       "drawdown30": 1.45,
-      "dealerBuyPct": 13.76,
+      "dealerBuyPct": 14.98,
       "volSpike": 1.59,
-      "dealer1dAmtW": 1290,
-      "dealer5dAmtW": 1356
+      "dealer1dAmtW": 1970,
+      "dealer5dAmtW": 3392
     },
     {
       "id": "2883",
@@ -384,14 +384,14 @@
       "changePct": -0.13,
       "k": 58.75,
       "d": 46.92,
-      "dealerNet": 1631115,
+      "dealerNet": 1370474,
       "date": "2026-10-13",
       "maUpDays": 35,
       "drawdown30": 5.02,
       "dealerBuyPct": null,
       "volSpike": 0.79,
-      "dealer1dAmtW": 6321,
-      "dealer5dAmtW": 18100
+      "dealer1dAmtW": 5311,
+      "dealer5dAmtW": 22390
     },
     {
       "id": "2890",
@@ -401,14 +401,14 @@
       "changePct": -1.0,
       "k": 63.36,
       "d": 54.36,
-      "dealerNet": 455891,
+      "dealerNet": 2142784,
       "date": "2026-10-13",
       "maUpDays": 29,
       "drawdown30": 3.45,
-      "dealerBuyPct": 5.09,
+      "dealerBuyPct": 6.12,
       "volSpike": 0.95,
-      "dealer1dAmtW": 2040,
-      "dealer5dAmtW": 12705
+      "dealer1dAmtW": 9589,
+      "dealer5dAmtW": 21223
     },
     {
       "id": "2207",
@@ -418,14 +418,14 @@
       "changePct": 1.14,
       "k": 73.9,
       "d": 55.67,
-      "dealerNet": -1000,
+      "dealerNet": -7294,
       "date": "2026-10-13",
       "maUpDays": 1,
       "drawdown30": 2.74,
-      "dealerBuyPct": 3.91,
+      "dealerBuyPct": 3.56,
       "volSpike": 1.29,
-      "dealer1dAmtW": -53,
-      "dealer5dAmtW": -129
+      "dealer1dAmtW": -389,
+      "dealer5dAmtW": -518
     },
     {
       "id": "2357",
@@ -435,14 +435,14 @@
       "changePct": -1.13,
       "k": 50.09,
       "d": 66.18,
-      "dealerNet": -41592,
+      "dealerNet": 82433,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 6.21,
-      "dealerBuyPct": 0.81,
+      "dealerBuyPct": 0.98,
       "volSpike": 0.85,
-      "dealer1dAmtW": -4018,
-      "dealer5dAmtW": 9959
+      "dealer1dAmtW": 7963,
+      "dealer5dAmtW": 12713
     },
     {
       "id": "3008",
@@ -452,14 +452,14 @@
       "changePct": -0.68,
       "k": 85.3,
       "d": 74.98,
-      "dealerNet": 125662,
+      "dealerNet": -10546,
       "date": "2026-10-13",
       "maUpDays": 4,
       "drawdown30": 9.01,
-      "dealerBuyPct": 14.62,
+      "dealerBuyPct": 14.39,
       "volSpike": 2.33,
-      "dealer1dAmtW": 91419,
-      "dealer5dAmtW": 213300
+      "dealer1dAmtW": -7672,
+      "dealer5dAmtW": 198783
     },
     {
       "id": "2379",
@@ -469,14 +469,14 @@
       "changePct": 1.61,
       "k": 57.25,
       "d": 53.52,
-      "dealerNet": -15160,
+      "dealerNet": -15139,
       "date": "2026-10-13",
       "maUpDays": 16,
       "drawdown30": 4.53,
-      "dealerBuyPct": 2.29,
-      "volSpike": 0.96,
-      "dealer1dAmtW": -1149,
-      "dealer5dAmtW": 9098
+      "dealerBuyPct": 2.21,
+      "volSpike": 0.97,
+      "dealer1dAmtW": -1148,
+      "dealer5dAmtW": 3754
     },
     {
       "id": "4938",
@@ -486,14 +486,14 @@
       "changePct": 3.96,
       "k": 58.34,
       "d": 39.18,
-      "dealerNet": 254947,
+      "dealerNet": 1248007,
       "date": "2026-10-13",
       "maUpDays": 2,
       "drawdown30": 2.38,
-      "dealerBuyPct": 1.26,
+      "dealerBuyPct": 1.93,
       "volSpike": 8.29,
-      "dealer1dAmtW": 2613,
-      "dealer5dAmtW": 7165
+      "dealer1dAmtW": 12792,
+      "dealer5dAmtW": 19336
     },
     {
       "id": "2409",
@@ -503,14 +503,14 @@
       "changePct": -3.94,
       "k": 27.23,
       "d": 46.08,
-      "dealerNet": -2990179,
+      "dealerNet": -7894371,
       "date": "2026-10-13",
       "maUpDays": 35,
       "drawdown30": 21.58,
-      "dealerBuyPct": -3.94,
+      "dealerBuyPct": -5.89,
       "volSpike": 0.74,
-      "dealer1dAmtW": -10211,
-      "dealer5dAmtW": -150192
+      "dealer1dAmtW": -26959,
+      "dealer5dAmtW": -101839
     },
     {
       "id": "3034",
@@ -520,14 +520,14 @@
       "changePct": 3.21,
       "k": 37.27,
       "d": 32.53,
-      "dealerNet": 1779,
+      "dealerNet": 60040,
       "date": "2026-10-13",
       "maUpDays": 1,
       "drawdown30": 3.7,
-      "dealerBuyPct": 1.6,
+      "dealerBuyPct": 1.72,
       "volSpike": 1.47,
-      "dealer1dAmtW": 97,
-      "dealer5dAmtW": 2942
+      "dealer1dAmtW": 3278,
+      "dealer5dAmtW": 4480
     },
     {
       "id": "2327",
@@ -537,14 +537,14 @@
       "changePct": -5.82,
       "k": 56.69,
       "d": 63.51,
-      "dealerNet": -32016,
+      "dealerNet": -2396320,
       "date": "2026-10-13",
       "maUpDays": 9,
       "drawdown30": 12.68,
-      "dealerBuyPct": 20.79,
+      "dealerBuyPct": 12.77,
       "volSpike": 1.41,
-      "dealer1dAmtW": -1918,
-      "dealer5dAmtW": 22894
+      "dealer1dAmtW": -143540,
+      "dealer5dAmtW": -119875
     },
     {
       "id": "2474",
@@ -554,14 +554,14 @@
       "changePct": -0.26,
       "k": 8.98,
       "d": 15.79,
-      "dealerNet": -13542,
+      "dealerNet": 16115,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 9.56,
-      "dealerBuyPct": 0.04,
+      "dealerBuyPct": 0.12,
       "volSpike": 0.65,
-      "dealer1dAmtW": -263,
-      "dealer5dAmtW": -3724
+      "dealer1dAmtW": 313,
+      "dealer5dAmtW": -2060
     },
     {
       "id": "1326",
@@ -571,14 +571,14 @@
       "changePct": 1.3,
       "k": 85.44,
       "d": 80.49,
-      "dealerNet": -560212,
+      "dealerNet": 111564,
       "date": "2026-10-13",
       "maUpDays": 6,
       "drawdown30": 1.64,
-      "dealerBuyPct": 0.73,
+      "dealerBuyPct": 1.14,
       "volSpike": 1.8,
-      "dealer1dAmtW": -4358,
-      "dealer5dAmtW": -2841
+      "dealer1dAmtW": 868,
+      "dealer5dAmtW": 411
     },
     {
       "id": "2303",
@@ -588,14 +588,14 @@
       "changePct": -2.75,
       "k": 14.62,
       "d": 23.97,
-      "dealerNet": -1977751,
+      "dealerNet": -3322731,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 16.02,
-      "dealerBuyPct": 3.42,
+      "dealerBuyPct": 2.67,
       "volSpike": 0.81,
-      "dealer1dAmtW": -27985,
-      "dealer5dAmtW": -23793
+      "dealer1dAmtW": -47017,
+      "dealer5dAmtW": -25624
     },
     {
       "id": "2105",
@@ -605,14 +605,14 @@
       "changePct": 0.98,
       "k": 63.01,
       "d": 48.2,
-      "dealerNet": 18351,
+      "dealerNet": 424604,
       "date": "2026-10-13",
       "maUpDays": 1,
       "drawdown30": 0.96,
-      "dealerBuyPct": 1.98,
+      "dealerBuyPct": 2.32,
       "volSpike": 1.12,
-      "dealer1dAmtW": 57,
-      "dealer5dAmtW": 1667
+      "dealer1dAmtW": 1310,
+      "dealer5dAmtW": 2864
     },
     {
       "id": "1101",
@@ -622,14 +622,14 @@
       "changePct": -2.41,
       "k": 62.56,
       "d": 56.72,
-      "dealerNet": 3456822,
+      "dealerNet": -1441416,
       "date": "2026-10-13",
       "maUpDays": 12,
       "drawdown30": 3.12,
-      "dealerBuyPct": 3.97,
+      "dealerBuyPct": 3.23,
       "volSpike": 1.32,
-      "dealer1dAmtW": 9109,
-      "dealer5dAmtW": 9270
+      "dealer1dAmtW": -3798,
+      "dealer5dAmtW": 5465
     },
     {
       "id": "2912",
@@ -639,14 +639,14 @@
       "changePct": 0.0,
       "k": 70.43,
       "d": 50.93,
-      "dealerNet": -6491,
+      "dealerNet": -26713,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 2.04,
-      "dealerBuyPct": 6.16,
+      "dealerBuyPct": 5.46,
       "volSpike": 1.11,
-      "dealer1dAmtW": -140,
-      "dealer5dAmtW": 288
+      "dealer1dAmtW": -577,
+      "dealer5dAmtW": -526
     },
     {
       "id": "2801",
@@ -656,14 +656,14 @@
       "changePct": 0.71,
       "k": 75.21,
       "d": 53.26,
-      "dealerNet": -382998,
+      "dealerNet": -6191,
       "date": "2026-10-13",
       "maUpDays": 27,
       "drawdown30": 4.37,
       "dealerBuyPct": null,
       "volSpike": 0.69,
-      "dealer1dAmtW": -1090,
-      "dealer5dAmtW": -1159
+      "dealer1dAmtW": -18,
+      "dealer5dAmtW": -1117
     },
     {
       "id": "0050",
@@ -673,14 +673,14 @@
       "changePct": -2.09,
       "k": 56.77,
       "d": 73.74,
-      "dealerNet": -47771118,
+      "dealerNet": -75420477,
       "date": "2026-10-13",
       "maUpDays": 35,
       "drawdown30": 3.6,
       "dealerBuyPct": null,
       "volSpike": 3.06,
-      "dealer1dAmtW": -536947,
-      "dealer5dAmtW": -768050
+      "dealer1dAmtW": -847726,
+      "dealer5dAmtW": -1642629
     },
     {
       "id": "1102",
@@ -690,14 +690,14 @@
       "changePct": 0.41,
       "k": 87.05,
       "d": 75.89,
-      "dealerNet": 136516,
+      "dealerNet": 364700,
       "date": "2026-10-13",
       "maUpDays": 5,
       "drawdown30": 0.14,
-      "dealerBuyPct": 0.8,
+      "dealerBuyPct": 0.93,
       "volSpike": 1.1,
-      "dealer1dAmtW": 502,
-      "dealer5dAmtW": 2511
+      "dealer1dAmtW": 1342,
+      "dealer5dAmtW": 3585
     },
     {
       "id": "1103",
@@ -707,14 +707,14 @@
       "changePct": -0.38,
       "k": 70.19,
       "d": 59.34,
-      "dealerNet": 0,
+      "dealerNet": -6000,
       "date": "2026-10-13",
       "maUpDays": 2,
       "drawdown30": 1.49,
-      "dealerBuyPct": 5.81,
+      "dealerBuyPct": 4.89,
       "volSpike": 0.84,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 0
+      "dealer1dAmtW": -8,
+      "dealer5dAmtW": -8
     },
     {
       "id": "1104",
@@ -724,14 +724,14 @@
       "changePct": -0.18,
       "k": 70.28,
       "d": 51.28,
-      "dealerNet": 71,
+      "dealerNet": -5000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 3.05,
       "dealerBuyPct": null,
       "volSpike": 1.72,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 25
+      "dealer1dAmtW": -14,
+      "dealer5dAmtW": 11
     },
     {
       "id": "1108",
@@ -758,14 +758,14 @@
       "changePct": -0.76,
       "k": 16.69,
       "d": 24.05,
-      "dealerNet": 0,
+      "dealerNet": -3000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 3.68,
-      "dealerBuyPct": 7.09,
+      "dealerBuyPct": 6.29,
       "volSpike": 0.99,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 1
+      "dealer1dAmtW": -4,
+      "dealer5dAmtW": -4
     },
     {
       "id": "1110",
@@ -792,14 +792,14 @@
       "changePct": -1.29,
       "k": 47.75,
       "d": 35.99,
-      "dealerNet": -30000,
+      "dealerNet": -119853,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 6.91,
       "dealerBuyPct": null,
       "volSpike": 0.62,
-      "dealer1dAmtW": -34,
-      "dealer5dAmtW": -126
+      "dealer1dAmtW": -137,
+      "dealer5dAmtW": -263
     },
     {
       "id": "1203",
@@ -826,14 +826,14 @@
       "changePct": -0.39,
       "k": 23.57,
       "d": 25.37,
-      "dealerNet": 15844,
+      "dealerNet": -33746,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 3.22,
-      "dealerBuyPct": 1.22,
+      "dealerBuyPct": 0.19,
       "volSpike": 1.76,
-      "dealer1dAmtW": 81,
-      "dealer5dAmtW": 58
+      "dealer1dAmtW": -172,
+      "dealer5dAmtW": -119
     },
     {
       "id": "1213",
@@ -860,14 +860,14 @@
       "changePct": -0.47,
       "k": 60.75,
       "d": 47.51,
-      "dealerNet": 0,
+      "dealerNet": -4650,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 5.36,
-      "dealerBuyPct": 5.99,
+      "dealerBuyPct": 5.18,
       "volSpike": 0.58,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 8
+      "dealer1dAmtW": -49,
+      "dealer5dAmtW": -43
     },
     {
       "id": "1217",
@@ -877,14 +877,14 @@
       "changePct": -0.3,
       "k": 63.37,
       "d": 51.84,
-      "dealerNet": 0,
+      "dealerNet": -5000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 1.09,
-      "dealerBuyPct": 103.36,
+      "dealerBuyPct": 103.51,
       "volSpike": 0.57,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 44
+      "dealer1dAmtW": -5,
+      "dealer5dAmtW": 28
     },
     {
       "id": "1218",
@@ -894,14 +894,14 @@
       "changePct": -0.34,
       "k": 44.92,
       "d": 44.79,
-      "dealerNet": 0,
+      "dealerNet": -5000,
       "date": "2026-10-13",
       "maUpDays": 3,
       "drawdown30": 1.69,
-      "dealerBuyPct": 7.0,
+      "dealerBuyPct": 5.88,
       "volSpike": 1.23,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 0
+      "dealer1dAmtW": -7,
+      "dealer5dAmtW": -7
     },
     {
       "id": "1219",
@@ -911,14 +911,14 @@
       "changePct": 0.0,
       "k": 24.39,
       "d": 27.71,
-      "dealerNet": 0,
+      "dealerNet": -3000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 4.68,
       "dealerBuyPct": null,
       "volSpike": 1.28,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 0
+      "dealer1dAmtW": -3,
+      "dealer5dAmtW": -3
     },
     {
       "id": "1220",
@@ -928,11 +928,11 @@
       "changePct": -0.46,
       "k": 72.31,
       "d": 72.15,
-      "dealerNet": 0,
+      "dealerNet": 149,
       "date": "2026-10-13",
       "maUpDays": 2,
       "drawdown30": 1.8,
-      "dealerBuyPct": 19.53,
+      "dealerBuyPct": 19.95,
       "volSpike": 0.49,
       "dealer1dAmtW": 0,
       "dealer5dAmtW": 1
@@ -945,13 +945,13 @@
       "changePct": 3.11,
       "k": 36.13,
       "d": 27.11,
-      "dealerNet": 0,
+      "dealerNet": -1000,
       "date": "2026-10-13",
       "maUpDays": 1,
       "drawdown30": 5.87,
-      "dealerBuyPct": 5.68,
+      "dealerBuyPct": 4.78,
       "volSpike": 5.16,
-      "dealer1dAmtW": 0,
+      "dealer1dAmtW": -2,
       "dealer5dAmtW": 0
     },
     {
@@ -962,14 +962,14 @@
       "changePct": 0.54,
       "k": 58.35,
       "d": 36.97,
-      "dealerNet": 0,
+      "dealerNet": -8755,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 2.6,
       "dealerBuyPct": null,
       "volSpike": 0.65,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 0
+      "dealer1dAmtW": -25,
+      "dealer5dAmtW": -25
     },
     {
       "id": "1229",
@@ -979,14 +979,14 @@
       "changePct": 1.5,
       "k": 59.52,
       "d": 41.0,
-      "dealerNet": -150,
+      "dealerNet": -11568,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 4.24,
-      "dealerBuyPct": 8.51,
+      "dealerBuyPct": 6.46,
       "volSpike": 1.8,
-      "dealer1dAmtW": -1,
-      "dealer5dAmtW": 119
+      "dealer1dAmtW": -47,
+      "dealer5dAmtW": 54
     },
     {
       "id": "1231",
@@ -996,14 +996,14 @@
       "changePct": -0.52,
       "k": 8.41,
       "d": 13.3,
-      "dealerNet": 0,
+      "dealerNet": -6957,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 4.93,
-      "dealerBuyPct": 113.63,
+      "dealerBuyPct": 117.11,
       "volSpike": 1.75,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 66
+      "dealer1dAmtW": -54,
+      "dealer5dAmtW": 5
     },
     {
       "id": "1232",
@@ -1013,14 +1013,14 @@
       "changePct": 0.0,
       "k": 40.54,
       "d": 34.45,
-      "dealerNet": 1000,
+      "dealerNet": -1000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 2.22,
-      "dealerBuyPct": 44.03,
+      "dealerBuyPct": 42.55,
       "volSpike": 1.02,
-      "dealer1dAmtW": 15,
-      "dealer5dAmtW": 31
+      "dealer1dAmtW": -15,
+      "dealer5dAmtW": 15
     },
     {
       "id": "1233",
@@ -1047,14 +1047,14 @@
       "changePct": 0.15,
       "k": 27.89,
       "d": 21.27,
-      "dealerNet": 0,
+      "dealerNet": -179,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 3.57,
-      "dealerBuyPct": 18.93,
+      "dealerBuyPct": 18.73,
       "volSpike": 0.89,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 1
+      "dealer1dAmtW": -1,
+      "dealer5dAmtW": 0
     },
     {
       "id": "1235",
@@ -1071,7 +1071,7 @@
       "dealerBuyPct": null,
       "volSpike": 0.12,
       "dealer1dAmtW": -3,
-      "dealer5dAmtW": -3
+      "dealer5dAmtW": -6
     },
     {
       "id": "1236",
@@ -1098,14 +1098,14 @@
       "changePct": 2.08,
       "k": 49.76,
       "d": 37.99,
-      "dealerNet": 1000,
+      "dealerNet": 0,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 12.28,
       "dealerBuyPct": null,
       "volSpike": 1.86,
-      "dealer1dAmtW": 17,
-      "dealer5dAmtW": 17
+      "dealer1dAmtW": 0,
+      "dealer5dAmtW": 34
     },
     {
       "id": "1304",
@@ -1115,14 +1115,14 @@
       "changePct": 3.44,
       "k": 77.53,
       "d": 70.0,
-      "dealerNet": -37591,
+      "dealerNet": 213218,
       "date": "2026-10-13",
       "maUpDays": 7,
       "drawdown30": 1.09,
-      "dealerBuyPct": -42.14,
+      "dealerBuyPct": -22.96,
       "volSpike": 2.98,
-      "dealer1dAmtW": -51,
-      "dealer5dAmtW": 46
+      "dealer1dAmtW": 289,
+      "dealer5dAmtW": 380
     },
     {
       "id": "1305",
@@ -1132,14 +1132,14 @@
       "changePct": 0.76,
       "k": 83.46,
       "d": 79.03,
-      "dealerNet": 93037,
+      "dealerNet": -55085,
       "date": "2026-10-13",
       "maUpDays": 5,
       "drawdown30": 1.85,
       "dealerBuyPct": null,
       "volSpike": 2.07,
-      "dealer1dAmtW": 123,
-      "dealer5dAmtW": 247
+      "dealer1dAmtW": -73,
+      "dealer5dAmtW": 174
     },
     {
       "id": "1307",
@@ -1149,14 +1149,14 @@
       "changePct": 0.16,
       "k": 47.79,
       "d": 58.7,
-      "dealerNet": -7000,
+      "dealerNet": 0,
       "date": "2026-10-13",
       "maUpDays": 10,
       "drawdown30": 2.52,
       "dealerBuyPct": -1261.34,
       "volSpike": 1.07,
-      "dealer1dAmtW": -22,
-      "dealer5dAmtW": -1885
+      "dealer1dAmtW": 0,
+      "dealer5dAmtW": -22
     },
     {
       "id": "1308",
@@ -1166,14 +1166,14 @@
       "changePct": 1.71,
       "k": 72.73,
       "d": 62.85,
-      "dealerNet": 23000,
+      "dealerNet": 124829,
       "date": "2026-10-13",
       "maUpDays": 1,
       "drawdown30": 2.3,
-      "dealerBuyPct": -5.33,
+      "dealerBuyPct": 6.46,
       "volSpike": 2.57,
-      "dealer1dAmtW": 34,
-      "dealer5dAmtW": 9
+      "dealer1dAmtW": 186,
+      "dealer5dAmtW": 206
     },
     {
       "id": "1309",
@@ -1183,14 +1183,14 @@
       "changePct": 2.11,
       "k": 66.76,
       "d": 63.54,
-      "dealerNet": 10000,
+      "dealerNet": -34936,
       "date": "2026-10-13",
       "maUpDays": 1,
       "drawdown30": 2.36,
-      "dealerBuyPct": -7.71,
+      "dealerBuyPct": -10.95,
       "volSpike": 2.16,
-      "dealer1dAmtW": 14,
-      "dealer5dAmtW": -63
+      "dealer1dAmtW": -51,
+      "dealer5dAmtW": -104
     },
     {
       "id": "1310",
@@ -1200,14 +1200,14 @@
       "changePct": 3.66,
       "k": 81.34,
       "d": 80.16,
-      "dealerNet": 12000,
+      "dealerNet": -2000,
       "date": "2026-10-13",
       "maUpDays": 32,
       "drawdown30": 2.39,
-      "dealerBuyPct": 2.5,
+      "dealerBuyPct": 2.18,
       "volSpike": 2.63,
-      "dealer1dAmtW": 12,
-      "dealer5dAmtW": 9
+      "dealer1dAmtW": -2,
+      "dealer5dAmtW": 12
     },
     {
       "id": "1312",
@@ -1217,14 +1217,14 @@
       "changePct": 9.97,
       "k": 78.94,
       "d": 67.06,
-      "dealerNet": -4284471,
+      "dealerNet": 2218378,
       "date": "2026-10-13",
       "maUpDays": 5,
       "drawdown30": 0.0,
-      "dealerBuyPct": -302.69,
+      "dealerBuyPct": -124.18,
       "volSpike": 6.94,
-      "dealer1dAmtW": -7562,
-      "dealer5dAmtW": -15897
+      "dealer1dAmtW": 3915,
+      "dealer5dAmtW": -11963
     },
     {
       "id": "1313",
@@ -1234,14 +1234,14 @@
       "changePct": 1.95,
       "k": 72.84,
       "d": 66.36,
-      "dealerNet": 92000,
+      "dealerNet": 10000,
       "date": "2026-10-13",
       "maUpDays": 10,
       "drawdown30": 1.14,
       "dealerBuyPct": null,
       "volSpike": 2.34,
-      "dealer1dAmtW": 120,
-      "dealer5dAmtW": 56
+      "dealer1dAmtW": 13,
+      "dealer5dAmtW": 93
     },
     {
       "id": "1314",
@@ -1251,14 +1251,14 @@
       "changePct": 0.11,
       "k": 60.72,
       "d": 51.13,
-      "dealerNet": -107000,
+      "dealerNet": -300000,
       "date": "2026-10-13",
       "maUpDays": 33,
       "drawdown30": 4.74,
-      "dealerBuyPct": 425.66,
+      "dealerBuyPct": 741.03,
       "volSpike": 0.62,
-      "dealer1dAmtW": -97,
-      "dealer5dAmtW": -704
+      "dealer1dAmtW": -272,
+      "dealer5dAmtW": -209
     },
     {
       "id": "1315",
@@ -1285,14 +1285,14 @@
       "changePct": 0.0,
       "k": 28.83,
       "d": 22.78,
-      "dealerNet": 0,
+      "dealerNet": 1000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 12.55,
       "dealerBuyPct": null,
       "volSpike": 1.37,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": -1
+      "dealer1dAmtW": 1,
+      "dealer5dAmtW": 0
     },
     {
       "id": "1319",
@@ -1302,14 +1302,14 @@
       "changePct": 1.1,
       "k": 71.34,
       "d": 58.19,
-      "dealerNet": 60578,
+      "dealerNet": 237093,
       "date": "2026-10-13",
       "maUpDays": 3,
       "drawdown30": 2.48,
-      "dealerBuyPct": 17.69,
+      "dealerBuyPct": 22.88,
       "volSpike": 10.22,
-      "dealer1dAmtW": 500,
-      "dealer5dAmtW": 874
+      "dealer1dAmtW": 1958,
+      "dealer5dAmtW": 2972
     },
     {
       "id": "1321",
@@ -1319,14 +1319,14 @@
       "changePct": 0.3,
       "k": 78.03,
       "d": 64.67,
-      "dealerNet": 0,
+      "dealerNet": -2000,
       "date": "2026-10-13",
       "maUpDays": 3,
       "drawdown30": 2.07,
-      "dealerBuyPct": 102.25,
+      "dealerBuyPct": 102.35,
       "volSpike": 1.7,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 56
+      "dealer1dAmtW": -7,
+      "dealer5dAmtW": 50
     },
     {
       "id": "1323",
@@ -1370,14 +1370,14 @@
       "changePct": -0.97,
       "k": 69.48,
       "d": 61.86,
-      "dealerNet": 8000,
+      "dealerNet": 28000,
       "date": "2026-10-13",
       "maUpDays": 8,
       "drawdown30": 6.97,
-      "dealerBuyPct": 0.19,
+      "dealerBuyPct": 0.78,
       "volSpike": 4.92,
-      "dealer1dAmtW": 25,
-      "dealer5dAmtW": 18
+      "dealer1dAmtW": 86,
+      "dealer5dAmtW": 104
     },
     {
       "id": "1337",
@@ -1404,14 +1404,14 @@
       "changePct": -0.34,
       "k": 28.46,
       "d": 38.89,
-      "dealerNet": -1000,
+      "dealerNet": -11000,
       "date": "2026-10-13",
       "maUpDays": 14,
       "drawdown30": 8.07,
       "dealerBuyPct": null,
       "volSpike": 0.63,
-      "dealer1dAmtW": -1,
-      "dealer5dAmtW": 3
+      "dealer1dAmtW": -16,
+      "dealer5dAmtW": -18
     },
     {
       "id": "1339",
@@ -1472,14 +1472,14 @@
       "changePct": -0.99,
       "k": 50.97,
       "d": 48.76,
-      "dealerNet": 1065,
+      "dealerNet": 1000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 4.29,
       "dealerBuyPct": null,
       "volSpike": 0.69,
-      "dealer1dAmtW": 11,
-      "dealer5dAmtW": 11
+      "dealer1dAmtW": 10,
+      "dealer5dAmtW": 21
     },
     {
       "id": "1402",
@@ -1489,14 +1489,14 @@
       "changePct": -0.35,
       "k": 70.33,
       "d": 64.86,
-      "dealerNet": 81237,
+      "dealerNet": -49365,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 2.89,
-      "dealerBuyPct": 0.65,
+      "dealerBuyPct": 0.6,
       "volSpike": 0.55,
-      "dealer1dAmtW": 232,
-      "dealer5dAmtW": 826
+      "dealer1dAmtW": -141,
+      "dealer5dAmtW": 265
     },
     {
       "id": "1409",
@@ -1506,14 +1506,14 @@
       "changePct": -1.34,
       "k": 61.21,
       "d": 62.8,
-      "dealerNet": 6848,
+      "dealerNet": -138443,
       "date": "2026-10-13",
       "maUpDays": 1,
       "drawdown30": 5.16,
-      "dealerBuyPct": -37.27,
+      "dealerBuyPct": -43.51,
       "volSpike": 0.78,
-      "dealer1dAmtW": 18,
-      "dealer5dAmtW": 29
+      "dealer1dAmtW": -356,
+      "dealer5dAmtW": -1232
     },
     {
       "id": "1410",
@@ -1557,14 +1557,14 @@
       "changePct": 1.14,
       "k": 66.53,
       "d": 62.92,
-      "dealerNet": 10000,
+      "dealerNet": 2000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 9.0,
-      "dealerBuyPct": 1.94,
+      "dealerBuyPct": 2.06,
       "volSpike": 0.53,
-      "dealer1dAmtW": 18,
-      "dealer5dAmtW": 35
+      "dealer1dAmtW": 4,
+      "dealer5dAmtW": 39
     },
     {
       "id": "1416",
@@ -1574,14 +1574,14 @@
       "changePct": 2.37,
       "k": 86.93,
       "d": 81.1,
-      "dealerNet": 6000,
+      "dealerNet": -1000,
       "date": "2026-10-13",
       "maUpDays": 4,
       "drawdown30": 0.0,
       "dealerBuyPct": null,
       "volSpike": 5.65,
-      "dealer1dAmtW": 8,
-      "dealer5dAmtW": 13
+      "dealer1dAmtW": -1,
+      "dealer5dAmtW": 12
     },
     {
       "id": "1417",
@@ -1591,13 +1591,13 @@
       "changePct": -0.12,
       "k": 71.14,
       "d": 79.12,
-      "dealerNet": 2000,
+      "dealerNet": 0,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 2.75,
       "dealerBuyPct": 122.85,
       "volSpike": 1.51,
-      "dealer1dAmtW": 2,
+      "dealer1dAmtW": 0,
       "dealer5dAmtW": 2
     },
     {
@@ -1676,14 +1676,14 @@
       "changePct": 2.83,
       "k": 81.52,
       "d": 72.85,
-      "dealerNet": -17696,
+      "dealerNet": 146511,
       "date": "2026-10-13",
       "maUpDays": 4,
       "drawdown30": 0.5,
-      "dealerBuyPct": 0.7,
+      "dealerBuyPct": 1.06,
       "volSpike": 2.99,
-      "dealer1dAmtW": -35,
-      "dealer5dAmtW": 140
+      "dealer1dAmtW": 293,
+      "dealer5dAmtW": 432
     },
     {
       "id": "1435",
@@ -1744,14 +1744,14 @@
       "changePct": -1.59,
       "k": 67.98,
       "d": 61.48,
-      "dealerNet": 0,
+      "dealerNet": -1000,
       "date": "2026-10-13",
       "maUpDays": 2,
       "drawdown30": 8.47,
       "dealerBuyPct": null,
       "volSpike": 1.12,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": -15
+      "dealer1dAmtW": -2,
+      "dealer5dAmtW": -9
     },
     {
       "id": "1439",
@@ -1761,14 +1761,14 @@
       "changePct": 1.97,
       "k": 80.8,
       "d": 69.92,
-      "dealerNet": 0,
+      "dealerNet": 7000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 6.89,
-      "dealerBuyPct": 65.9,
+      "dealerBuyPct": 84.17,
       "volSpike": 2.79,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 0
+      "dealer1dAmtW": 20,
+      "dealer5dAmtW": 20
     },
     {
       "id": "1440",
@@ -1778,14 +1778,14 @@
       "changePct": -0.35,
       "k": 73.86,
       "d": 70.8,
-      "dealerNet": 89000,
+      "dealerNet": -8000,
       "date": "2026-10-13",
       "maUpDays": 4,
       "drawdown30": 5.05,
-      "dealerBuyPct": 10.91,
+      "dealerBuyPct": 10.62,
       "volSpike": 0.57,
-      "dealer1dAmtW": 125,
-      "dealer5dAmtW": 203
+      "dealer1dAmtW": -11,
+      "dealer5dAmtW": 192
     },
     {
       "id": "1441",
@@ -1802,7 +1802,7 @@
       "dealerBuyPct": 0.0,
       "volSpike": 0.54,
       "dealer1dAmtW": 0,
-      "dealer5dAmtW": -3
+      "dealer5dAmtW": -2
     },
     {
       "id": "1442",
@@ -1819,7 +1819,7 @@
       "dealerBuyPct": null,
       "volSpike": 0.24,
       "dealer1dAmtW": 0,
-      "dealer5dAmtW": -178
+      "dealer5dAmtW": -151
     },
     {
       "id": "1443",
@@ -1846,14 +1846,14 @@
       "changePct": -0.86,
       "k": 40.02,
       "d": 39.53,
-      "dealerNet": 0,
+      "dealerNet": -9000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 7.5,
-      "dealerBuyPct": 21.17,
+      "dealerBuyPct": 19.23,
       "volSpike": 0.8,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": -5
+      "dealer1dAmtW": -6,
+      "dealer5dAmtW": -11
     },
     {
       "id": "1445",
@@ -1863,14 +1863,14 @@
       "changePct": -0.99,
       "k": 25.29,
       "d": 29.45,
-      "dealerNet": 0,
+      "dealerNet": 1000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 9.5,
-      "dealerBuyPct": 77.84,
+      "dealerBuyPct": 82.41,
       "volSpike": 1.11,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": -5
+      "dealer1dAmtW": 1,
+      "dealer5dAmtW": -4
     },
     {
       "id": "1446",
@@ -1880,14 +1880,14 @@
       "changePct": 0.0,
       "k": 43.15,
       "d": 34.2,
-      "dealerNet": 10000,
+      "dealerNet": 4000,
       "date": "2026-10-13",
       "maUpDays": 2,
       "drawdown30": 3.24,
-      "dealerBuyPct": 22.73,
+      "dealerBuyPct": 34.62,
       "volSpike": 0.56,
-      "dealer1dAmtW": 13,
-      "dealer5dAmtW": 13
+      "dealer1dAmtW": 5,
+      "dealer5dAmtW": 19
     },
     {
       "id": "1447",
@@ -1914,13 +1914,13 @@
       "changePct": -0.78,
       "k": 52.34,
       "d": 53.11,
-      "dealerNet": 18000,
+      "dealerNet": 0,
       "date": "2026-10-13",
       "maUpDays": 7,
       "drawdown30": 4.87,
       "dealerBuyPct": null,
       "volSpike": 0.73,
-      "dealer1dAmtW": 23,
+      "dealer1dAmtW": 0,
       "dealer5dAmtW": 13
     },
     {
@@ -1965,13 +1965,13 @@
       "changePct": 0.0,
       "k": 48.32,
       "d": 42.28,
-      "dealerNet": 5000,
+      "dealerNet": 0,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 4.37,
       "dealerBuyPct": 10.54,
       "volSpike": 0.4,
-      "dealer1dAmtW": 5,
+      "dealer1dAmtW": 0,
       "dealer5dAmtW": 9
     },
     {
@@ -1982,13 +1982,13 @@
       "changePct": -2.24,
       "k": 57.15,
       "d": 37.65,
-      "dealerNet": 1000,
+      "dealerNet": 0,
       "date": "2026-10-13",
       "maUpDays": 2,
       "drawdown30": 2.96,
       "dealerBuyPct": 57.36,
       "volSpike": 2.0,
-      "dealer1dAmtW": 1,
+      "dealer1dAmtW": 0,
       "dealer5dAmtW": 3
     },
     {
@@ -1999,14 +1999,14 @@
       "changePct": -1.47,
       "k": 47.06,
       "d": 57.18,
-      "dealerNet": -35000,
+      "dealerNet": 13000,
       "date": "2026-10-13",
       "maUpDays": 4,
       "drawdown30": 7.8,
-      "dealerBuyPct": 0.77,
+      "dealerBuyPct": 1.09,
       "volSpike": 0.93,
-      "dealer1dAmtW": -35,
-      "dealer5dAmtW": -52
+      "dealer1dAmtW": 13,
+      "dealer5dAmtW": -39
     },
     {
       "id": "1456",
@@ -2016,14 +2016,14 @@
       "changePct": -0.66,
       "k": 70.72,
       "d": 68.44,
-      "dealerNet": -6000,
+      "dealerNet": 0,
       "date": "2026-10-13",
       "maUpDays": 11,
       "drawdown30": 2.26,
       "dealerBuyPct": null,
       "volSpike": 0.36,
-      "dealer1dAmtW": -9,
-      "dealer5dAmtW": 3
+      "dealer1dAmtW": 0,
+      "dealer5dAmtW": 5
     },
     {
       "id": "1457",
@@ -2050,14 +2050,14 @@
       "changePct": 2.21,
       "k": 44.77,
       "d": 57.17,
-      "dealerNet": 2000,
+      "dealerNet": 0,
       "date": "2026-10-13",
       "maUpDays": 51,
       "drawdown30": 18.14,
       "dealerBuyPct": -46.12,
       "volSpike": 0.72,
-      "dealer1dAmtW": 4,
-      "dealer5dAmtW": 2
+      "dealer1dAmtW": 0,
+      "dealer5dAmtW": -392
     },
     {
       "id": "1460",
@@ -2084,13 +2084,13 @@
       "changePct": 0.57,
       "k": 49.29,
       "d": 47.33,
-      "dealerNet": -2000,
+      "dealerNet": 1000,
       "date": "2026-10-13",
       "maUpDays": 7,
       "drawdown30": 1.94,
-      "dealerBuyPct": 14.56,
+      "dealerBuyPct": 20.36,
       "volSpike": 2.88,
-      "dealer1dAmtW": -4,
+      "dealer1dAmtW": 2,
       "dealer5dAmtW": -2
     },
     {
@@ -2101,14 +2101,14 @@
       "changePct": 0.2,
       "k": 25.84,
       "d": 26.37,
-      "dealerNet": 0,
+      "dealerNet": 1000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 3.5,
       "dealerBuyPct": null,
       "volSpike": 0.98,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 10
+      "dealer1dAmtW": 1,
+      "dealer5dAmtW": 11
     },
     {
       "id": "1465",
@@ -2135,14 +2135,14 @@
       "changePct": -1.04,
       "k": 25.07,
       "d": 26.13,
-      "dealerNet": 0,
+      "dealerNet": -3000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 13.11,
-      "dealerBuyPct": 3.84,
+      "dealerBuyPct": 1.57,
       "volSpike": 0.94,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": -4
+      "dealer1dAmtW": -4,
+      "dealer5dAmtW": -9
     },
     {
       "id": "1467",
@@ -2152,14 +2152,14 @@
       "changePct": 0.98,
       "k": 47.75,
       "d": 46.52,
-      "dealerNet": 0,
+      "dealerNet": -4000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 5.73,
-      "dealerBuyPct": -165.53,
+      "dealerBuyPct": -208.02,
       "volSpike": 0.85,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": -14
+      "dealer1dAmtW": -3,
+      "dealer5dAmtW": -17
     },
     {
       "id": "1468",
@@ -2169,13 +2169,13 @@
       "changePct": 0.38,
       "k": 58.23,
       "d": 64.6,
-      "dealerNet": -2000,
+      "dealerNet": 0,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 2.94,
       "dealerBuyPct": 19.86,
       "volSpike": 0.62,
-      "dealer1dAmtW": -3,
+      "dealer1dAmtW": 0,
       "dealer5dAmtW": -1
     },
     {
@@ -2210,7 +2210,7 @@
       "dealerBuyPct": 31.14,
       "volSpike": 0.62,
       "dealer1dAmtW": 0,
-      "dealer5dAmtW": 0
+      "dealer5dAmtW": 4
     },
     {
       "id": "1472",
@@ -2220,13 +2220,13 @@
       "changePct": 0.23,
       "k": 52.24,
       "d": 57.34,
-      "dealerNet": -8000,
+      "dealerNet": -12000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 2.53,
       "dealerBuyPct": null,
       "volSpike": 3.12,
-      "dealer1dAmtW": -71,
+      "dealer1dAmtW": -106,
       "dealer5dAmtW": -470
     },
     {
@@ -2261,7 +2261,7 @@
       "dealerBuyPct": 11.78,
       "volSpike": 0.59,
       "dealer1dAmtW": 0,
-      "dealer5dAmtW": -1
+      "dealer5dAmtW": -2
     },
     {
       "id": "1475",
@@ -2288,14 +2288,14 @@
       "changePct": -0.16,
       "k": 84.37,
       "d": 70.49,
-      "dealerNet": -24000,
+      "dealerNet": -39890,
       "date": "2026-10-13",
       "maUpDays": 3,
       "drawdown30": 1.74,
-      "dealerBuyPct": 0.7,
+      "dealerBuyPct": -0.46,
       "volSpike": 0.91,
-      "dealer1dAmtW": -748,
-      "dealer5dAmtW": 1510
+      "dealer1dAmtW": -1243,
+      "dealer5dAmtW": 294
     },
     {
       "id": "1477",
@@ -2305,14 +2305,14 @@
       "changePct": 0.24,
       "k": 83.08,
       "d": 73.55,
-      "dealerNet": 4695,
+      "dealerNet": 7570,
       "date": "2026-10-13",
       "maUpDays": 6,
       "drawdown30": 0.96,
-      "dealerBuyPct": -0.81,
+      "dealerBuyPct": -0.74,
       "volSpike": 1.04,
-      "dealer1dAmtW": 97,
-      "dealer5dAmtW": -1625
+      "dealer1dAmtW": 156,
+      "dealer5dAmtW": -1726
     },
     {
       "id": "1503",
@@ -2322,14 +2322,14 @@
       "changePct": -2.7,
       "k": 47.91,
       "d": 48.45,
-      "dealerNet": 209697,
+      "dealerNet": -120391,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 7.67,
-      "dealerBuyPct": 20.77,
+      "dealerBuyPct": 13.17,
       "volSpike": 1.68,
-      "dealer1dAmtW": 4162,
-      "dealer5dAmtW": 4735
+      "dealer1dAmtW": -2390,
+      "dealer5dAmtW": 2268
     },
     {
       "id": "1504",
@@ -2339,14 +2339,14 @@
       "changePct": -2.79,
       "k": 49.9,
       "d": 56.39,
-      "dealerNet": 45794,
+      "dealerNet": -173993,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 6.82,
-      "dealerBuyPct": 2.07,
+      "dealerBuyPct": 1.6,
       "volSpike": 0.9,
-      "dealer1dAmtW": 319,
-      "dealer5dAmtW": 866
+      "dealer1dAmtW": -1213,
+      "dealer5dAmtW": -328
     },
     {
       "id": "1506",
@@ -2390,14 +2390,14 @@
       "changePct": -2.07,
       "k": 47.87,
       "d": 58.23,
-      "dealerNet": 168919,
+      "dealerNet": -148848,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 4.34,
       "dealerBuyPct": null,
       "volSpike": 1.41,
-      "dealer1dAmtW": 2796,
-      "dealer5dAmtW": 5871
+      "dealer1dAmtW": -2463,
+      "dealer5dAmtW": 3376
     },
     {
       "id": "1514",
@@ -2407,14 +2407,14 @@
       "changePct": -2.86,
       "k": 42.56,
       "d": 50.29,
-      "dealerNet": 20513,
+      "dealerNet": -25456,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 8.52,
       "dealerBuyPct": null,
       "volSpike": 1.27,
-      "dealer1dAmtW": 209,
-      "dealer5dAmtW": 193
+      "dealer1dAmtW": -260,
+      "dealer5dAmtW": -67
     },
     {
       "id": "1515",
@@ -2424,14 +2424,14 @@
       "changePct": -1.37,
       "k": 26.64,
       "d": 22.63,
-      "dealerNet": 641,
+      "dealerNet": -3000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 25.36,
-      "dealerBuyPct": -0.17,
+      "dealerBuyPct": -0.56,
       "volSpike": 1.41,
-      "dealer1dAmtW": 2,
-      "dealer5dAmtW": -1
+      "dealer1dAmtW": -9,
+      "dealer5dAmtW": -6
     },
     {
       "id": "1516",
@@ -2441,14 +2441,14 @@
       "changePct": 9.74,
       "k": 86.08,
       "d": 72.34,
-      "dealerNet": 0,
+      "dealerNet": 3683,
       "date": "2026-10-13",
       "maUpDays": 2,
       "drawdown30": 0.0,
-      "dealerBuyPct": 49.57,
+      "dealerBuyPct": 73.63,
       "volSpike": 5.56,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 2
+      "dealer1dAmtW": 6,
+      "dealer5dAmtW": 6
     },
     {
       "id": "1517",
@@ -2458,14 +2458,14 @@
       "changePct": -1.44,
       "k": 53.42,
       "d": 46.89,
-      "dealerNet": 0,
+      "dealerNet": -1201,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 10.43,
-      "dealerBuyPct": 2.09,
+      "dealerBuyPct": 1.9,
       "volSpike": 1.31,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 0
+      "dealer1dAmtW": -1,
+      "dealer5dAmtW": -1
     },
     {
       "id": "1519",
@@ -2475,14 +2475,14 @@
       "changePct": -8.43,
       "k": 29.03,
       "d": 31.31,
-      "dealerNet": 260702,
+      "dealerNet": -306856,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 15.65,
-      "dealerBuyPct": 7.56,
+      "dealerBuyPct": -4.26,
       "volSpike": 3.64,
-      "dealer1dAmtW": 17285,
-      "dealer5dAmtW": 10637
+      "dealer1dAmtW": -20345,
+      "dealer5dAmtW": -3722
     },
     {
       "id": "1521",
@@ -2509,14 +2509,14 @@
       "changePct": -0.56,
       "k": 58.19,
       "d": 52.47,
-      "dealerNet": 0,
+      "dealerNet": -3000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 6.38,
       "dealerBuyPct": null,
       "volSpike": 0.81,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": -3
+      "dealer1dAmtW": -8,
+      "dealer5dAmtW": -11
     },
     {
       "id": "1524",
@@ -2560,13 +2560,13 @@
       "changePct": -2.29,
       "k": 52.68,
       "d": 56.02,
-      "dealerNet": 2000,
+      "dealerNet": 0,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 10.21,
       "dealerBuyPct": null,
       "volSpike": 0.61,
-      "dealer1dAmtW": 3,
+      "dealer1dAmtW": 0,
       "dealer5dAmtW": 3
     },
     {
@@ -2594,7 +2594,7 @@
       "changePct": -1.95,
       "k": 6.54,
       "d": 15.12,
-      "dealerNet": 201,
+      "dealerNet": 0,
       "date": "2026-10-13",
       "maUpDays": 20,
       "drawdown30": 18.82,
@@ -2611,14 +2611,14 @@
       "changePct": -1.62,
       "k": 29.11,
       "d": 35.44,
-      "dealerNet": 0,
+      "dealerNet": 2000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 16.25,
-      "dealerBuyPct": 0.16,
+      "dealerBuyPct": 0.18,
       "volSpike": 0.47,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 2
+      "dealer1dAmtW": 3,
+      "dealer5dAmtW": 5
     },
     {
       "id": "1530",
@@ -2628,14 +2628,14 @@
       "changePct": -3.99,
       "k": 63.03,
       "d": 52.41,
-      "dealerNet": 5000,
+      "dealerNet": 0,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 6.27,
       "dealerBuyPct": null,
       "volSpike": 5.36,
-      "dealer1dAmtW": 14,
-      "dealer5dAmtW": 11
+      "dealer1dAmtW": 0,
+      "dealer5dAmtW": 14
     },
     {
       "id": "1531",
@@ -2645,13 +2645,13 @@
       "changePct": 0.42,
       "k": 63.67,
       "d": 43.68,
-      "dealerNet": -1000,
+      "dealerNet": 0,
       "date": "2026-10-13",
       "maUpDays": 1,
       "drawdown30": 13.14,
       "dealerBuyPct": -103.15,
       "volSpike": 0.6,
-      "dealer1dAmtW": -1,
+      "dealer1dAmtW": 0,
       "dealer5dAmtW": -7
     },
     {
@@ -2662,14 +2662,14 @@
       "changePct": -1.15,
       "k": 12.55,
       "d": 15.33,
-      "dealerNet": 60000,
+      "dealerNet": -2994,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 7.73,
       "dealerBuyPct": null,
       "volSpike": 0.74,
-      "dealer1dAmtW": 129,
-      "dealer5dAmtW": 191
+      "dealer1dAmtW": -6,
+      "dealer5dAmtW": 185
     },
     {
       "id": "1533",
@@ -2713,14 +2713,14 @@
       "changePct": -1.21,
       "k": 22.96,
       "d": 28.98,
-      "dealerNet": -20626,
+      "dealerNet": -11249,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 13.29,
-      "dealerBuyPct": -5.45,
+      "dealerBuyPct": -5.9,
       "volSpike": 1.57,
-      "dealer1dAmtW": -93,
-      "dealer5dAmtW": -415
+      "dealer1dAmtW": -51,
+      "dealer5dAmtW": -226
     },
     {
       "id": "1537",
@@ -2730,14 +2730,14 @@
       "changePct": 0.0,
       "k": 60.32,
       "d": 44.01,
-      "dealerNet": 7000,
+      "dealerNet": 511,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 3.77,
-      "dealerBuyPct": 0.27,
+      "dealerBuyPct": 0.47,
       "volSpike": 0.73,
-      "dealer1dAmtW": 80,
-      "dealer5dAmtW": 80
+      "dealer1dAmtW": 6,
+      "dealer5dAmtW": 86
     },
     {
       "id": "1538",
@@ -2815,14 +2815,14 @@
       "changePct": 3.59,
       "k": 72.55,
       "d": 67.4,
-      "dealerNet": 2000,
+      "dealerNet": -5100,
       "date": "2026-10-13",
       "maUpDays": 45,
       "drawdown30": 0.43,
       "dealerBuyPct": null,
       "volSpike": 3.04,
-      "dealer1dAmtW": 23,
-      "dealer5dAmtW": 35
+      "dealer1dAmtW": -59,
+      "dealer5dAmtW": -24
     },
     {
       "id": "1560",
@@ -2832,14 +2832,14 @@
       "changePct": -5.0,
       "k": 44.65,
       "d": 64.74,
-      "dealerNet": -22551,
+      "dealerNet": -22180,
       "date": "2026-10-13",
       "maUpDays": 33,
       "drawdown30": 10.38,
       "dealerBuyPct": null,
       "volSpike": 0.92,
-      "dealer1dAmtW": -2142,
-      "dealer5dAmtW": -5702
+      "dealer1dAmtW": -2107,
+      "dealer5dAmtW": -12138
     },
     {
       "id": "1563",
@@ -2849,14 +2849,14 @@
       "changePct": -0.34,
       "k": 83.97,
       "d": 78.11,
-      "dealerNet": 41781,
+      "dealerNet": 60191,
       "date": "2026-10-13",
       "maUpDays": 29,
       "drawdown30": 3.12,
-      "dealerBuyPct": 8.49,
+      "dealerBuyPct": 17.62,
       "volSpike": 4.25,
-      "dealer1dAmtW": 363,
-      "dealer5dAmtW": 506
+      "dealer1dAmtW": 523,
+      "dealer5dAmtW": 1029
     },
     {
       "id": "1568",
@@ -2866,14 +2866,14 @@
       "changePct": -3.54,
       "k": 25.04,
       "d": 41.31,
-      "dealerNet": -146,
+      "dealerNet": 0,
       "date": "2026-10-13",
       "maUpDays": 17,
       "drawdown30": 9.65,
       "dealerBuyPct": 16.48,
       "volSpike": 1.03,
       "dealer1dAmtW": 0,
-      "dealer5dAmtW": -7
+      "dealer5dAmtW": -9
     },
     {
       "id": "1582",
@@ -2883,14 +2883,14 @@
       "changePct": -0.99,
       "k": 32.34,
       "d": 45.5,
-      "dealerNet": -1097,
+      "dealerNet": -3048,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 9.52,
       "dealerBuyPct": null,
       "volSpike": 1.02,
-      "dealer1dAmtW": -8,
-      "dealer5dAmtW": 48
+      "dealer1dAmtW": -21,
+      "dealer5dAmtW": 28
     },
     {
       "id": "1583",
@@ -2900,13 +2900,13 @@
       "changePct": -0.1,
       "k": 83.88,
       "d": 66.8,
-      "dealerNet": 2000,
+      "dealerNet": 0,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 2.23,
       "dealerBuyPct": 45.0,
       "volSpike": 0.71,
-      "dealer1dAmtW": 10,
+      "dealer1dAmtW": 0,
       "dealer5dAmtW": 10
     },
     {
@@ -2951,14 +2951,14 @@
       "changePct": -3.31,
       "k": 41.78,
       "d": 43.14,
-      "dealerNet": 2808,
+      "dealerNet": 571,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 21.74,
-      "dealerBuyPct": 3.06,
+      "dealerBuyPct": 3.14,
       "volSpike": 0.72,
-      "dealer1dAmtW": 329,
-      "dealer5dAmtW": 1069
+      "dealer1dAmtW": 67,
+      "dealer5dAmtW": 1167
     },
     {
       "id": "1597",
@@ -2968,14 +2968,14 @@
       "changePct": -1.02,
       "k": 43.91,
       "d": 49.26,
-      "dealerNet": 65670,
+      "dealerNet": -51703,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 10.98,
-      "dealerBuyPct": 100.41,
+      "dealerBuyPct": 100.99,
       "volSpike": 0.94,
-      "dealer1dAmtW": 959,
-      "dealer5dAmtW": 1152
+      "dealer1dAmtW": -755,
+      "dealer5dAmtW": 636
     },
     {
       "id": "1598",
@@ -2985,14 +2985,14 @@
       "changePct": 0.25,
       "k": 18.0,
       "d": 22.86,
-      "dealerNet": 0,
+      "dealerNet": -2000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 7.41,
       "dealerBuyPct": null,
       "volSpike": 0.73,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": -10
+      "dealer1dAmtW": -4,
+      "dealer5dAmtW": -12
     },
     {
       "id": "1603",
@@ -3002,13 +3002,13 @@
       "changePct": -0.64,
       "k": 77.84,
       "d": 78.96,
-      "dealerNet": 9000,
+      "dealerNet": 0,
       "date": "2026-10-13",
       "maUpDays": 4,
       "drawdown30": 1.43,
       "dealerBuyPct": 8.97,
       "volSpike": 1.01,
-      "dealer1dAmtW": 28,
+      "dealer1dAmtW": 0,
       "dealer5dAmtW": 28
     },
     {
@@ -3019,14 +3019,14 @@
       "changePct": 0.0,
       "k": 63.42,
       "d": 44.99,
-      "dealerNet": 0,
+      "dealerNet": -7000,
       "date": "2026-10-13",
       "maUpDays": 2,
       "drawdown30": 0.42,
       "dealerBuyPct": null,
       "volSpike": 0.85,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 0
+      "dealer1dAmtW": -17,
+      "dealer5dAmtW": -17
     },
     {
       "id": "1605",
@@ -3036,14 +3036,14 @@
       "changePct": -3.99,
       "k": 66.85,
       "d": 69.11,
-      "dealerNet": 1021656,
+      "dealerNet": -449632,
       "date": "2026-10-13",
       "maUpDays": 7,
       "drawdown30": 5.4,
-      "dealerBuyPct": 1.02,
+      "dealerBuyPct": 0.77,
       "volSpike": 1.31,
-      "dealer1dAmtW": 3938,
-      "dealer5dAmtW": 3499
+      "dealer1dAmtW": -1733,
+      "dealer5dAmtW": 2814
     },
     {
       "id": "1608",
@@ -3053,14 +3053,14 @@
       "changePct": -1.75,
       "k": 65.51,
       "d": 65.87,
-      "dealerNet": 9286,
+      "dealerNet": -18000,
       "date": "2026-10-13",
       "maUpDays": 2,
       "drawdown30": 5.68,
-      "dealerBuyPct": -20.43,
+      "dealerBuyPct": -22.5,
       "volSpike": 1.0,
-      "dealer1dAmtW": 34,
-      "dealer5dAmtW": 93
+      "dealer1dAmtW": -66,
+      "dealer5dAmtW": 80
     },
     {
       "id": "1609",
@@ -3070,14 +3070,14 @@
       "changePct": -1.65,
       "k": 51.73,
       "d": 58.78,
-      "dealerNet": 66099,
+      "dealerNet": -19667,
       "date": "2026-10-13",
       "maUpDays": 11,
       "drawdown30": 3.38,
       "dealerBuyPct": null,
       "volSpike": 1.19,
-      "dealer1dAmtW": 255,
-      "dealer5dAmtW": 637
+      "dealer1dAmtW": -76,
+      "dealer5dAmtW": 558
     },
     {
       "id": "1611",
@@ -3087,14 +3087,14 @@
       "changePct": -0.44,
       "k": 24.9,
       "d": 32.43,
-      "dealerNet": -166000,
+      "dealerNet": -122742,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 7.02,
-      "dealerBuyPct": 80.51,
+      "dealerBuyPct": 77.04,
       "volSpike": 0.7,
-      "dealer1dAmtW": -187,
-      "dealer5dAmtW": -253
+      "dealer1dAmtW": -138,
+      "dealer5dAmtW": -391
     },
     {
       "id": "1612",
@@ -3104,14 +3104,14 @@
       "changePct": -1.16,
       "k": 19.83,
       "d": 30.46,
-      "dealerNet": -375,
+      "dealerNet": 4840,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 5.03,
-      "dealerBuyPct": 2.6,
+      "dealerBuyPct": 2.77,
       "volSpike": 1.7,
-      "dealer1dAmtW": -1,
-      "dealer5dAmtW": 8
+      "dealer1dAmtW": 16,
+      "dealer5dAmtW": 26
     },
     {
       "id": "1614",
@@ -3128,7 +3128,7 @@
       "dealerBuyPct": 28.36,
       "volSpike": 0.37,
       "dealer1dAmtW": 0,
-      "dealer5dAmtW": 6
+      "dealer5dAmtW": 3
     },
     {
       "id": "1615",
@@ -3138,14 +3138,14 @@
       "changePct": 8.3,
       "k": 72.21,
       "d": 48.57,
-      "dealerNet": 166000,
+      "dealerNet": -155000,
       "date": "2026-10-13",
       "maUpDays": 3,
       "drawdown30": 1.44,
-      "dealerBuyPct": 98.61,
+      "dealerBuyPct": 94.59,
       "volSpike": 45.91,
-      "dealer1dAmtW": 910,
-      "dealer5dAmtW": 978
+      "dealer1dAmtW": -849,
+      "dealer5dAmtW": 129
     },
     {
       "id": "1616",
@@ -3155,7 +3155,7 @@
       "changePct": -1.87,
       "k": 46.81,
       "d": 51.34,
-      "dealerNet": 12,
+      "dealerNet": 0,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 8.71,
@@ -3172,14 +3172,14 @@
       "changePct": -0.62,
       "k": 55.11,
       "d": 63.88,
-      "dealerNet": 3000,
+      "dealerNet": -4000,
       "date": "2026-10-13",
       "maUpDays": 17,
       "drawdown30": 9.45,
       "dealerBuyPct": null,
       "volSpike": 0.58,
-      "dealer1dAmtW": 7,
-      "dealer5dAmtW": 5
+      "dealer1dAmtW": -10,
+      "dealer5dAmtW": -24
     },
     {
       "id": "1618",
@@ -3189,14 +3189,14 @@
       "changePct": -0.77,
       "k": 46.98,
       "d": 47.92,
-      "dealerNet": 972,
+      "dealerNet": -571,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 5.85,
-      "dealerBuyPct": -5.03,
+      "dealerBuyPct": -5.23,
       "volSpike": 0.79,
-      "dealer1dAmtW": 4,
-      "dealer5dAmtW": -28
+      "dealer1dAmtW": -2,
+      "dealer5dAmtW": -29
     },
     {
       "id": "1623",
@@ -3206,14 +3206,14 @@
       "changePct": -3.03,
       "k": 23.35,
       "d": 20.76,
-      "dealerNet": -2986,
+      "dealerNet": 8986,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 12.73,
       "dealerBuyPct": null,
       "volSpike": 3.4,
-      "dealer1dAmtW": -57,
-      "dealer5dAmtW": 154
+      "dealer1dAmtW": 173,
+      "dealer5dAmtW": 326
     },
     {
       "id": "1626",
@@ -3223,14 +3223,14 @@
       "changePct": 0.1,
       "k": 57.43,
       "d": 48.44,
-      "dealerNet": 0,
+      "dealerNet": 2000,
       "date": "2026-10-13",
       "maUpDays": 1,
       "drawdown30": 2.6,
       "dealerBuyPct": null,
       "volSpike": 2.53,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 2
+      "dealer1dAmtW": 2,
+      "dealer5dAmtW": 4
     },
     {
       "id": "1702",
@@ -3240,14 +3240,14 @@
       "changePct": -0.15,
       "k": 57.65,
       "d": 47.72,
-      "dealerNet": 0,
+      "dealerNet": 56000,
       "date": "2026-10-13",
       "maUpDays": 14,
       "drawdown30": 1.18,
       "dealerBuyPct": null,
       "volSpike": 1.34,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": -2
+      "dealer1dAmtW": 188,
+      "dealer5dAmtW": 186
     },
     {
       "id": "1707",
@@ -3257,14 +3257,14 @@
       "changePct": 0.47,
       "k": 48.33,
       "d": 28.87,
-      "dealerNet": 0,
+      "dealerNet": -2000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 7.02,
       "dealerBuyPct": null,
       "volSpike": 1.01,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 3
+      "dealer1dAmtW": -17,
+      "dealer5dAmtW": -20
     },
     {
       "id": "1708",
@@ -3274,14 +3274,14 @@
       "changePct": -3.23,
       "k": 61.85,
       "d": 75.41,
-      "dealerNet": -85701,
+      "dealerNet": -22607,
       "date": "2026-10-13",
       "maUpDays": 11,
       "drawdown30": 7.53,
       "dealerBuyPct": null,
       "volSpike": 0.81,
-      "dealer1dAmtW": -463,
-      "dealer5dAmtW": -627
+      "dealer1dAmtW": -122,
+      "dealer5dAmtW": -826
     },
     {
       "id": "1709",
@@ -3291,14 +3291,14 @@
       "changePct": 2.22,
       "k": 75.28,
       "d": 80.21,
-      "dealerNet": -101000,
+      "dealerNet": 20000,
       "date": "2026-10-13",
       "maUpDays": 42,
       "drawdown30": 9.65,
       "dealerBuyPct": null,
       "volSpike": 0.22,
-      "dealer1dAmtW": -605,
-      "dealer5dAmtW": -1602
+      "dealer1dAmtW": 120,
+      "dealer5dAmtW": -911
     },
     {
       "id": "1710",
@@ -3308,14 +3308,14 @@
       "changePct": 8.03,
       "k": 85.2,
       "d": 80.04,
-      "dealerNet": -160999,
+      "dealerNet": 776251,
       "date": "2026-10-13",
       "maUpDays": 35,
       "drawdown30": 1.76,
-      "dealerBuyPct": 23.47,
+      "dealerBuyPct": 38.16,
       "volSpike": 4.27,
-      "dealer1dAmtW": -314,
-      "dealer5dAmtW": 705
+      "dealer1dAmtW": 1514,
+      "dealer5dAmtW": 2253
     },
     {
       "id": "1711",
@@ -3325,14 +3325,14 @@
       "changePct": -0.89,
       "k": 53.97,
       "d": 63.03,
-      "dealerNet": 10804,
+      "dealerNet": -60544,
       "date": "2026-10-13",
       "maUpDays": 6,
       "drawdown30": 14.0,
-      "dealerBuyPct": 37.77,
+      "dealerBuyPct": 35.27,
       "volSpike": 0.96,
-      "dealer1dAmtW": 48,
-      "dealer5dAmtW": 1839
+      "dealer1dAmtW": -270,
+      "dealer5dAmtW": 1170
     },
     {
       "id": "1712",
@@ -3342,14 +3342,14 @@
       "changePct": 0.12,
       "k": 59.64,
       "d": 44.33,
-      "dealerNet": 37000,
+      "dealerNet": 3912,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 2.18,
       "dealerBuyPct": null,
       "volSpike": 1.15,
-      "dealer1dAmtW": 149,
-      "dealer5dAmtW": 234
+      "dealer1dAmtW": 16,
+      "dealer5dAmtW": 252
     },
     {
       "id": "1713",
@@ -3359,14 +3359,14 @@
       "changePct": -0.66,
       "k": 77.94,
       "d": 72.15,
-      "dealerNet": 2000,
+      "dealerNet": 0,
       "date": "2026-10-13",
       "maUpDays": 6,
       "drawdown30": 1.94,
       "dealerBuyPct": 222.22,
       "volSpike": 0.39,
-      "dealer1dAmtW": 9,
-      "dealer5dAmtW": 73
+      "dealer1dAmtW": 0,
+      "dealer5dAmtW": 68
     },
     {
       "id": "1714",
@@ -3376,14 +3376,14 @@
       "changePct": -1.49,
       "k": 82.92,
       "d": 81.65,
-      "dealerNet": 71684,
+      "dealerNet": 276006,
       "date": "2026-10-13",
       "maUpDays": 6,
       "drawdown30": 4.78,
-      "dealerBuyPct": 17.49,
+      "dealerBuyPct": 22.88,
       "volSpike": 1.46,
-      "dealer1dAmtW": 143,
-      "dealer5dAmtW": 1309
+      "dealer1dAmtW": 549,
+      "dealer5dAmtW": 1258
     },
     {
       "id": "1717",
@@ -3393,14 +3393,14 @@
       "changePct": -2.14,
       "k": 52.59,
       "d": 65.59,
-      "dealerNet": -54641,
+      "dealerNet": -190968,
       "date": "2026-10-13",
       "maUpDays": 4,
       "drawdown30": 14.5,
-      "dealerBuyPct": 58.39,
+      "dealerBuyPct": 39.33,
       "volSpike": 1.03,
-      "dealer1dAmtW": -399,
-      "dealer5dAmtW": -1114
+      "dealer1dAmtW": -1396,
+      "dealer5dAmtW": -2648
     },
     {
       "id": "1718",
@@ -3410,14 +3410,14 @@
       "changePct": 0.41,
       "k": 77.83,
       "d": 70.86,
-      "dealerNet": -292430,
+      "dealerNet": 648642,
       "date": "2026-10-13",
       "maUpDays": 6,
       "drawdown30": 3.19,
-      "dealerBuyPct": 48.46,
+      "dealerBuyPct": 52.28,
       "volSpike": 2.51,
-      "dealer1dAmtW": -355,
-      "dealer5dAmtW": 2577
+      "dealer1dAmtW": 788,
+      "dealer5dAmtW": 1348
     },
     {
       "id": "1720",
@@ -3427,14 +3427,14 @@
       "changePct": -0.52,
       "k": 60.57,
       "d": 56.41,
-      "dealerNet": 0,
+      "dealerNet": -4000,
       "date": "2026-10-13",
       "maUpDays": 3,
       "drawdown30": 1.89,
-      "dealerBuyPct": 8.28,
+      "dealerBuyPct": 7.71,
       "volSpike": 1.74,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 31
+      "dealer1dAmtW": -23,
+      "dealer5dAmtW": 7
     },
     {
       "id": "1721",
@@ -3444,14 +3444,14 @@
       "changePct": -1.28,
       "k": 55.18,
       "d": 68.07,
-      "dealerNet": -1000,
+      "dealerNet": 6000,
       "date": "2026-10-13",
       "maUpDays": 25,
       "drawdown30": 10.17,
-      "dealerBuyPct": 0.19,
+      "dealerBuyPct": 0.37,
       "volSpike": 0.59,
-      "dealer1dAmtW": -3,
-      "dealer5dAmtW": 0
+      "dealer1dAmtW": 16,
+      "dealer5dAmtW": 22
     },
     {
       "id": "1722",
@@ -3461,14 +3461,14 @@
       "changePct": -0.83,
       "k": 52.13,
       "d": 38.92,
-      "dealerNet": 2209,
+      "dealerNet": -41210,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 7.96,
-      "dealerBuyPct": 7.19,
+      "dealerBuyPct": 3.22,
       "volSpike": 0.87,
-      "dealer1dAmtW": 9,
-      "dealer5dAmtW": 47
+      "dealer1dAmtW": -172,
+      "dealer5dAmtW": -133
     },
     {
       "id": "1723",
@@ -3478,14 +3478,14 @@
       "changePct": 1.32,
       "k": 69.82,
       "d": 55.86,
-      "dealerNet": 3868,
+      "dealerNet": 3039,
       "date": "2026-10-13",
       "maUpDays": 1,
       "drawdown30": 5.48,
-      "dealerBuyPct": -19.12,
+      "dealerBuyPct": -18.38,
       "volSpike": 1.56,
-      "dealer1dAmtW": 33,
-      "dealer5dAmtW": 77
+      "dealer1dAmtW": 26,
+      "dealer5dAmtW": 103
     },
     {
       "id": "1725",
@@ -3495,14 +3495,14 @@
       "changePct": 1.85,
       "k": 66.19,
       "d": 63.34,
-      "dealerNet": 3000,
+      "dealerNet": 8000,
       "date": "2026-10-13",
       "maUpDays": 44,
       "drawdown30": 5.54,
-      "dealerBuyPct": 3.86,
+      "dealerBuyPct": 7.43,
       "volSpike": 5.39,
-      "dealer1dAmtW": 11,
-      "dealer5dAmtW": -4
+      "dealer1dAmtW": 29,
+      "dealer5dAmtW": 21
     },
     {
       "id": "1726",
@@ -3529,14 +3529,14 @@
       "changePct": -3.38,
       "k": 15.3,
       "d": 30.87,
-      "dealerNet": 606,
+      "dealerNet": -67523,
       "date": "2026-10-13",
       "maUpDays": 39,
       "drawdown30": 23.08,
-      "dealerBuyPct": -26.38,
+      "dealerBuyPct": -37.2,
       "volSpike": 0.33,
-      "dealer1dAmtW": 6,
-      "dealer5dAmtW": -8218
+      "dealer1dAmtW": -675,
+      "dealer5dAmtW": -6654
     },
     {
       "id": "1730",
@@ -3604,7 +3604,7 @@
       "dealerBuyPct": null,
       "volSpike": 1.22,
       "dealer1dAmtW": 0,
-      "dealer5dAmtW": -12
+      "dealer5dAmtW": 0
     },
     {
       "id": "1734",
@@ -3614,13 +3614,13 @@
       "changePct": -0.47,
       "k": 44.98,
       "d": 59.2,
-      "dealerNet": 2000,
+      "dealerNet": 0,
       "date": "2026-10-13",
       "maUpDays": 11,
       "drawdown30": 3.66,
       "dealerBuyPct": 0.0,
       "volSpike": 1.16,
-      "dealer1dAmtW": 6,
+      "dealer1dAmtW": 0,
       "dealer5dAmtW": 6
     },
     {
@@ -3648,14 +3648,14 @@
       "changePct": -0.82,
       "k": 19.16,
       "d": 23.11,
-      "dealerNet": -1517,
+      "dealerNet": -1000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 9.74,
-      "dealerBuyPct": -1.25,
+      "dealerBuyPct": -1.51,
       "volSpike": 0.38,
-      "dealer1dAmtW": -18,
-      "dealer5dAmtW": -132
+      "dealer1dAmtW": -12,
+      "dealer5dAmtW": -60
     },
     {
       "id": "1737",
@@ -3682,13 +3682,13 @@
       "changePct": -2.42,
       "k": 46.33,
       "d": 46.46,
-      "dealerNet": -2000,
+      "dealerNet": 0,
       "date": "2026-10-13",
       "maUpDays": 3,
       "drawdown30": 6.78,
       "dealerBuyPct": null,
       "volSpike": 1.96,
-      "dealer1dAmtW": -6,
+      "dealer1dAmtW": 0,
       "dealer5dAmtW": -3
     },
     {
@@ -3716,14 +3716,14 @@
       "changePct": -0.43,
       "k": 55.24,
       "d": 51.53,
-      "dealerNet": 0,
+      "dealerNet": -1000,
       "date": "2026-10-13",
       "maUpDays": 3,
       "drawdown30": 4.12,
-      "dealerBuyPct": 1.96,
+      "dealerBuyPct": 1.68,
       "volSpike": 0.97,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": -21
+      "dealer1dAmtW": -3,
+      "dealer5dAmtW": -24
     },
     {
       "id": "1773",
@@ -3733,14 +3733,14 @@
       "changePct": -1.15,
       "k": 56.02,
       "d": 68.26,
-      "dealerNet": 12331,
+      "dealerNet": -8077,
       "date": "2026-10-13",
       "maUpDays": 7,
       "drawdown30": 5.75,
-      "dealerBuyPct": 6.38,
+      "dealerBuyPct": 5.26,
       "volSpike": 0.79,
-      "dealer1dAmtW": 212,
-      "dealer5dAmtW": -48
+      "dealer1dAmtW": -139,
+      "dealer5dAmtW": -960
     },
     {
       "id": "1776",
@@ -3818,14 +3818,14 @@
       "changePct": -3.0,
       "k": 53.57,
       "d": 54.17,
-      "dealerNet": 19572,
+      "dealerNet": -17516,
       "date": "2026-10-13",
       "maUpDays": 2,
       "drawdown30": 8.48,
-      "dealerBuyPct": 6.84,
+      "dealerBuyPct": 3.32,
       "volSpike": 2.26,
-      "dealer1dAmtW": 348,
-      "dealer5dAmtW": 1288
+      "dealer1dAmtW": -312,
+      "dealer5dAmtW": 828
     },
     {
       "id": "1802",
@@ -3835,14 +3835,14 @@
       "changePct": -2.68,
       "k": 60.4,
       "d": 62.58,
-      "dealerNet": 373398,
+      "dealerNet": -444713,
       "date": "2026-10-13",
       "maUpDays": 6,
       "drawdown30": 7.49,
-      "dealerBuyPct": 142.71,
+      "dealerBuyPct": 146.48,
       "volSpike": 1.38,
-      "dealer1dAmtW": 2308,
-      "dealer5dAmtW": 34286
+      "dealer1dAmtW": -2748,
+      "dealer5dAmtW": 30584
     },
     {
       "id": "1805",
@@ -3869,14 +3869,14 @@
       "changePct": 0.0,
       "k": 38.26,
       "d": 38.26,
-      "dealerNet": 0,
+      "dealerNet": -3000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 2.96,
-      "dealerBuyPct": 16.2,
+      "dealerBuyPct": 14.82,
       "volSpike": 0.56,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": -1
+      "dealer1dAmtW": -2,
+      "dealer5dAmtW": -3
     },
     {
       "id": "1808",
@@ -3903,14 +3903,14 @@
       "changePct": -3.2,
       "k": 34.63,
       "d": 55.02,
-      "dealerNet": -10159,
+      "dealerNet": -10252,
       "date": "2026-10-13",
       "maUpDays": 15,
       "drawdown30": 13.11,
-      "dealerBuyPct": 15.87,
+      "dealerBuyPct": 14.84,
       "volSpike": 0.38,
       "dealer1dAmtW": -43,
-      "dealer5dAmtW": -529
+      "dealer5dAmtW": -382
     },
     {
       "id": "1810",
@@ -3920,14 +3920,14 @@
       "changePct": -0.86,
       "k": 11.29,
       "d": 18.15,
-      "dealerNet": 6301,
+      "dealerNet": -7001,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 13.46,
-      "dealerBuyPct": 1.56,
+      "dealerBuyPct": 1.26,
       "volSpike": 0.97,
-      "dealer1dAmtW": 15,
-      "dealer5dAmtW": 28
+      "dealer1dAmtW": -16,
+      "dealer5dAmtW": 12
     },
     {
       "id": "1817",
@@ -3971,14 +3971,14 @@
       "changePct": 0.99,
       "k": 76.23,
       "d": 60.01,
-      "dealerNet": -40000,
+      "dealerNet": -10000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 0.97,
-      "dealerBuyPct": -1.81,
+      "dealerBuyPct": -3.47,
       "volSpike": 1.54,
-      "dealer1dAmtW": -102,
-      "dealer5dAmtW": -180
+      "dealer1dAmtW": -26,
+      "dealer5dAmtW": -206
     },
     {
       "id": "1905",
@@ -4022,14 +4022,14 @@
       "changePct": -0.7,
       "k": 60.81,
       "d": 45.26,
-      "dealerNet": 0,
+      "dealerNet": -30000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 8.29,
-      "dealerBuyPct": 2.14,
+      "dealerBuyPct": -0.87,
       "volSpike": 0.31,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": -76
+      "dealer1dAmtW": -85,
+      "dealer5dAmtW": -161
     },
     {
       "id": "1909",
@@ -4039,14 +4039,14 @@
       "changePct": 0.0,
       "k": 57.01,
       "d": 43.85,
-      "dealerNet": -180000,
+      "dealerNet": 65094,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 10.48,
       "dealerBuyPct": null,
       "volSpike": 0.86,
-      "dealer1dAmtW": -184,
-      "dealer5dAmtW": -135
+      "dealer1dAmtW": 67,
+      "dealer5dAmtW": -126
     },
     {
       "id": "2006",
@@ -4141,14 +4141,14 @@
       "changePct": 0.0,
       "k": 25.16,
       "d": 31.66,
-      "dealerNet": 4000,
+      "dealerNet": -2000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 5.41,
-      "dealerBuyPct": 23.95,
+      "dealerBuyPct": 20.49,
       "volSpike": 0.93,
-      "dealer1dAmtW": 6,
-      "dealer5dAmtW": 3
+      "dealer1dAmtW": -3,
+      "dealer5dAmtW": 0
     },
     {
       "id": "2013",
@@ -4158,14 +4158,14 @@
       "changePct": 0.0,
       "k": 60.81,
       "d": 60.13,
-      "dealerNet": 31,
+      "dealerNet": -1549,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 1.78,
-      "dealerBuyPct": 3.5,
+      "dealerBuyPct": 3.32,
       "volSpike": 0.81,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": -1
+      "dealer1dAmtW": -6,
+      "dealer5dAmtW": -5
     },
     {
       "id": "2014",
@@ -4175,14 +4175,14 @@
       "changePct": -0.59,
       "k": 34.62,
       "d": 49.35,
-      "dealerNet": 57000,
+      "dealerNet": -11000,
       "date": "2026-10-13",
       "maUpDays": 0,
       "drawdown30": 3.44,
-      "dealerBuyPct": 0.45,
+      "dealerBuyPct": 0.43,
       "volSpike": 0.96,
-      "dealer1dAmtW": 96,
-      "dealer5dAmtW": 202
+      "dealer1dAmtW": -19,
+      "dealer5dAmtW": 184
     },
     {
       "id": "2015",
@@ -4192,14 +4192,14 @@
       "changePct": 0.0,
       "k": 85.29,
       "d": 72.68,
-      "dealerNet": 0,
+      "dealerNet": -5000,
       "date": "2026-10-13",
       "maUpDays": 3,
       "drawdown30": 0.31,
-      "dealerBuyPct": 30.96,
+      "dealerBuyPct": 29.75,
       "volSpike": 1.46,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 46
+      "dealer1dAmtW": -32,
+      "dealer5dAmtW": 13
     },
     {
       "id": "2017",
@@ -4209,14 +4209,14 @@
       "changePct": -0.45,
       "k": 35.6,
       "d": 40.44,
-      "dealerNet": 5000,
+      "dealerNet": -4000,
       "date": "2026-10-13",
       "maUpDays": 3,
       "drawdown30": 5.7,
-      "dealerBuyPct": 3.04,
+      "dealerBuyPct": 2.98,
       "volSpike": 1.14,
-      "dealer1dAmtW": 4,
-      "dealer5dAmtW": 4
+      "dealer1dAmtW": -4,
+      "dealer5dAmtW": 1
     },
     {
       "id": "2020",
@@ -4294,14 +4294,14 @@
       "changePct": -0.37,
       "k": 28.64,
       "d": 46.3,
-      "dealerNet": 3000,
+      "dealerNet": -7000,
       "date": "2026-10-13",
       "maUpDays": 10,
       "drawdown30": 11.33,
-      "dealerBuyPct": 0.05,
+      "dealerBuyPct": 0.02,
       "volSpike": 0.33,
-      "dealer1dAmtW": 4,
-      "dealer5dAmtW": 3
+      "dealer1dAmtW": -9,
+      "dealer5dAmtW": -5
     },
     {
       "id": "2027",
@@ -4311,14 +4311,14 @@
       "changePct": 1.14,
       "k": 63.2,
       "d": 58.83,
-      "dealerNet": 39352,
+      "dealerNet": 496043,
       "date": "2026-10-13",
       "maUpDays": 1,
       "drawdown30": 3.94,
-      "dealerBuyPct": 1.6,
+      "dealerBuyPct": 1.93,
       "volSpike": 1.03,
-      "dealer1dAmtW": 192,
-      "dealer5dAmtW": 2935
+      "dealer1dAmtW": 2421,
+      "dealer5dAmtW": 4796
     },
     {
       "id": "2028",
@@ -4345,14 +4345,14 @@
       "changePct": 0.69,
       "k": 33.72,
       "d": 44.78,
-      "dealerNet": 0,
+      "dealerNet": -2000,
       "date": "2026-10-13",
       "maUpDays": 4,
       "drawdown30": 4.17,
-      "dealerBuyPct": -2.42,
+      "dealerBuyPct": -3.38,
       "volSpike": 0.37,
-      "dealer1dAmtW": 0,
-      "dealer5dAmtW": 9
+      "dealer1dAmtW": -4,
+      "dealer5dAmtW": 0
     },
     {
       "id": "2030",
@@ -4379,14 +4379,14 @@
       "changePct": 0.22,
       "k": 52.24,
       "d": 56.94,
-      "dealerNet": 24694,
+      "dealerNet": 932,
       "date": "2026-10-13",
       "maUpDays": 11,
       "drawdown30": 1.8,
-      "dealerBuyPct": 0.71,
+      "dealerBuyPct": 0.76,
       "volSpike": 1.03,
-      "dealer1dAmtW": 114,
-      "dealer5dAmtW": 113
+      "dealer1dAmtW": 4,
+      "dealer5dAmtW": 65
     },
     {
       "id": "2032",
@@ -4420,7 +4420,7 @@
       "dealerBuyPct": 40.39,
       "volSpike": 0.45,
       "dealer1dAmtW": 0,
-      "dealer5dAmtW": 27
+      "dealer5dAmtW": 36
     },
     {
       "id": "2034",
@@ -4430,14 +4430,14 @@
       "changePct": 0.64,
       "k": 49.6,
       "d": 62.03,
-      "dealerNet": -4061,
+      "dealerNet": -372,
       "date": "2026-10-13",
       "maUpDays": 40,
       "drawdown30": 5.2,
       "dealerBuyPct": null,
       "volSpike": 0.61,
-      "dealer1dAmtW": -10,
-      "dealer5dAmtW": -42
+      "dealer1dAmtW": -1,
+      "dealer5dAmtW": 2
     },
     {
       "id": "2038",
@@ -5523,7 +5523,7 @@
       "maUpDays": 15,
       "drawdown30": 14.06,
       "dealerBuyPct": null,
-      "volSpike": 1.16,
+      "volSpike": 1.17,
       "dealer1dAmtW": 16657,
       "dealer5dAmtW": -25354
     },
@@ -5897,7 +5897,7 @@
       "maUpDays": 18,
       "drawdown30": 4.77,
       "dealerBuyPct": 2.5,
-      "volSpike": 0.75,
+      "volSpike": 0.78,
       "dealer1dAmtW": 2304,
       "dealer5dAmtW": -732
     },
@@ -6645,7 +6645,7 @@
       "maUpDays": 0,
       "drawdown30": 13.46,
       "dealerBuyPct": null,
-      "volSpike": 1.86,
+      "volSpike": 6.88,
       "dealer1dAmtW": 0,
       "dealer5dAmtW": 15
     },
@@ -7733,7 +7733,7 @@
       "maUpDays": 0,
       "drawdown30": 20.41,
       "dealerBuyPct": null,
-      "volSpike": 0.84,
+      "volSpike": 0.87,
       "dealer1dAmtW": -2332,
       "dealer5dAmtW": 21786
     },
@@ -7801,7 +7801,7 @@
       "maUpDays": 9,
       "drawdown30": 19.44,
       "dealerBuyPct": 78.11,
-      "volSpike": 1.16,
+      "volSpike": 1.19,
       "dealer1dAmtW": -23491,
       "dealer5dAmtW": 55624
     },
