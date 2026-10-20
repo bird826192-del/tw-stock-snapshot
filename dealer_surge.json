@@ -1,5 +1,30 @@
 {
-  "generatedAt": "2026-10-19T15:30:02+08:00",
-  "tradingDate": "2026-10-19",
-  "stocks": []
+  "generatedAt": "2026-10-20T15:30:03+08:00",
+  "tradingDate": "2026-10-20",
+  "stocks": [
+    {
+      "id": "2376",
+      "name": "技嘉",
+      "close": 355.0,
+      "date": "2026-10-20",
+      "changePct": null,
+      "k": 22.3,
+      "d": 20.9,
+      "drawdown30": 10.5,
+      "divNote": null,
+      "exDivUpcoming": null,
+      "atrPct": 3.1,
+      "hiConf": false,
+      "mktCap": 2378,
+      "dealer1dAmtW": 10248,
+      "dealer5dAmtW": 21888,
+      "foreign1dAmtW": 25815,
+      "foreign5dAmtW": 52953,
+      "foreign20dAmtW": -88267,
+      "capitulationFlip": false,
+      "margin5dChg": -6.7,
+      "stars": 2,
+      "rank": 1
+    }
+  ]
 }
