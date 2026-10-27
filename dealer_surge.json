@@ -1,5 +1,54 @@
 {
-  "generatedAt": "2026-10-22T15:30:01+08:00",
-  "tradingDate": "2026-10-22",
-  "stocks": []
+  "generatedAt": "2026-10-27T15:30:04+08:00",
+  "tradingDate": "2026-10-27",
+  "stocks": [
+    {
+      "id": "2408",
+      "name": "南亞科",
+      "close": 441.0,
+      "date": "2026-10-27",
+      "changePct": null,
+      "k": 17.4,
+      "d": 18.8,
+      "drawdown30": 17.9,
+      "divNote": null,
+      "exDivUpcoming": null,
+      "atrPct": 3.6,
+      "hiConf": true,
+      "mktCap": 13671,
+      "dealer1dAmtW": 38207,
+      "dealer5dAmtW": 109179,
+      "foreign1dAmtW": 510076,
+      "foreign5dAmtW": 194069,
+      "foreign20dAmtW": -1594875,
+      "capitulationFlip": false,
+      "margin5dChg": 0.1,
+      "stars": 4,
+      "rank": 1
+    },
+    {
+      "id": "3105",
+      "name": "穩懋",
+      "close": 491.0,
+      "date": "2026-10-27",
+      "changePct": null,
+      "k": 26.8,
+      "d": 27.5,
+      "drawdown30": 22.1,
+      "divNote": null,
+      "exDivUpcoming": null,
+      "atrPct": 5.5,
+      "hiConf": false,
+      "mktCap": 2082,
+      "dealer1dAmtW": 14062,
+      "dealer5dAmtW": 13310,
+      "foreign1dAmtW": -42861,
+      "foreign5dAmtW": 317748,
+      "foreign20dAmtW": 1812856,
+      "capitulationFlip": false,
+      "margin5dChg": 0.1,
+      "stars": 2,
+      "rank": 2
+    }
+  ]
 }
