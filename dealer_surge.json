@@ -1,30 +1,5 @@
 {
-  "generatedAt": "2026-10-29T15:30:04+08:00",
-  "tradingDate": "2026-10-29",
-  "stocks": [
-    {
-      "id": "2409",
-      "name": "友達",
-      "close": 34.05,
-      "date": "2026-10-29",
-      "changePct": null,
-      "k": 29.9,
-      "d": 35.9,
-      "drawdown30": 21.8,
-      "divNote": null,
-      "exDivUpcoming": null,
-      "atrPct": 5.9,
-      "hiConf": false,
-      "mktCap": 2570,
-      "dealer1dAmtW": 31199,
-      "dealer5dAmtW": 12776,
-      "foreign1dAmtW": 233533,
-      "foreign5dAmtW": -192072,
-      "foreign20dAmtW": -1652061,
-      "capitulationFlip": true,
-      "margin5dChg": -4.6,
-      "stars": 3,
-      "rank": 1
-    }
-  ]
+  "generatedAt": "2026-10-30T15:30:04+08:00",
+  "tradingDate": "2026-10-30",
+  "stocks": []
 }
